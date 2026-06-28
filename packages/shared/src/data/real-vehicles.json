@@ -1,0 +1,1602 @@
+[
+  {
+    "make": "Toyota",
+    "model": "RAV4",
+    "year": 2021,
+    "trim": "XLE Premium",
+    "driveHint": "AWD",
+    "specs": {
+      "epaModel": "RAV4 AWD",
+      "epaId": "42968",
+      "engine": "2.5L 4-cyl",
+      "displacement": "2.5",
+      "cylinders": 4,
+      "transmission": "Automatic (S8)",
+      "drive": "All-Wheel Drive",
+      "fuelType": "Regular Gasoline",
+      "mpgCity": 27,
+      "mpgHwy": 33,
+      "mpgComb": 29,
+      "vClass": "Small Sport Utility Vehicle 4WD",
+      "co2": 301
+    },
+    "recalls": [
+      {
+        "campaign": "23V865000",
+        "component": "AIR BAGS:SENSOR:OCCUPANT CLASSIFICATION",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2020-2021 Avalon, Avalon Hybrid, Corolla, Highlander, Highlander Hybrid, RAV4, RAV4 Hybrid, Lexus ES350, Lexus RX350, Lexus RX450H, 2021 Sienna Hybrid, Lexus ES250, 2020-2022 Camry, Camry Hybrid, and ES300H ve",
+        "consequence": "An air bag that does not deploy during a crash increases the risk of injury.",
+        "remedy": "Dealers will inspect and replace the sensor as necessary, free of charge.  Interim letters notifying owners of the safety risk were mailed in February 2024. Some final remedy owner letters were mailed",
+        "reportDate": "20/12/2023"
+      }
+    ],
+    "safety": {
+      "nveDescription": "2021 Toyota RAV4 SUV AWD",
+      "overall": 5,
+      "frontalCrash": 4,
+      "sideCrash": 5,
+      "rollover": 4
+    },
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/2021_Toyota_RAV4_PHV.jpg/960px-2021_Toyota_RAV4_PHV.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5b/2021_Toyota_RAV4_PHV.jpg",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File:2021_Toyota_RAV4_PHV.jpg",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "TTTNIS",
+      "title": "File:2021 Toyota RAV4 PHV.jpg",
+      "query": "2021 Toyota RAV4"
+    }
+  },
+  {
+    "make": "Toyota",
+    "model": "RAV4",
+    "year": 2019,
+    "trim": "LE",
+    "driveHint": "FWD",
+    "specs": {
+      "epaModel": "RAV4",
+      "epaId": "41122",
+      "engine": "2.5L 4-cyl",
+      "displacement": "2.5",
+      "cylinders": 4,
+      "transmission": "Automatic (S8)",
+      "drive": "Front-Wheel Drive",
+      "fuelType": "Regular Gasoline",
+      "mpgCity": 26,
+      "mpgHwy": 35,
+      "mpgComb": 30,
+      "vClass": "Small Sport Utility Vehicle 2WD",
+      "co2": 302
+    },
+    "recalls": [
+      {
+        "campaign": "20V682000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2018-2019 4Runner, 2019-2020 Avalon, 2019 Corolla Hatchback, 2017-2019 Highlander, 2018-2020 Camry, 2020 Corolla, 2018-2019 Land Cruiser, 2017-2020 Tacoma, 2019-2020 RAV4, 2019-2020 Sequoia, 2017-2020 Sienna, ",
+        "consequence": "If the fuel pump fails, the engine can stall while driving, increasing the risk of a crash.",
+        "remedy": "Toyota will notify owners, and dealers will replace the fuel pump assembly with an improved one, free of charge.  Owners of specific models were notified that remedy parts were available starting Janu",
+        "reportDate": "04/11/2020"
+      },
+      {
+        "campaign": "20V064000",
+        "component": "ENGINE AND ENGINE COOLING",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2020 Toyota Avalon Hybrid, Camry, Camry Hybrid and  Lexus ES300h and 2019-2020 RAV4 and RAV4 Hybrid vehicles equipped with 2.5L 4-Cylinder engines.  Porosity in the engine castings may result in cracks than ca",
+        "consequence": "A coolant leak can cause the engine to overheat and cause a vehicle stall in conventional gasoline vehicles, increasing the risk of a crash. Additionally, for all involved vehicles, the engine may get",
+        "remedy": "Toyota will notify owners, and dealers will inspect and replace the engine including the engine block, as necessary, free of charge.  The recall began April 3, 2020.  Owners may contact Toyota custome",
+        "reportDate": "06/02/2020"
+      },
+      {
+        "campaign": "20V373000",
+        "component": "STEERING:ELECTRIC POWER ASSIST SYSTEM",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2019-2020 RAV4 and 2020 RAV4 Hybrid vehicles equipped with electric power steering (EPS).  Water may enter through the steering gear box cover and cause a loss of electric power steering assist.",
+        "consequence": "A loss of power steering assist could increase steering effort at low vehicle speeds, increasing the risk of a crash.",
+        "remedy": "Toyota will notify owners, and dealers will replace the power steering gear box, free of charge.  The recall began August 17, 2020.  Owners may contact Toyota customer service at 1-888-270-9371.  Toyo",
+        "reportDate": "24/06/2020"
+      },
+      {
+        "campaign": "20V286000",
+        "component": "SUSPENSION:FRONT:CONTROL ARM:LOWER ARM",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2019-2020 RAV4 and RAV4 Hybrid vehicles.  The front lower suspension arms may have cracks, which may result in the suspension arm separating from the front wheel assembly.",
+        "consequence": "If a suspension control arm breaks, it can result in a loss of vehicle control, increasing the risk of a crash.",
+        "remedy": "Toyota will notify owners, and dealers will replace both front lower suspension arms, free of charge.  This recall began August 10, 2020.  Owners may contact Toyota customer service at 1-888-270-9371.",
+        "reportDate": "20/05/2020"
+      },
+      {
+        "campaign": "19V503000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain 2017-2019 Toyota Camry, Corolla, Rav4, Sienna, and Yaris iA vehicles equipped with factory-installed floor mats.  The load carrying capacity modification label may be incorrect.  As such, these vehicles fail to comply ",
+        "consequence": "An incorrect label may lead to unintentionally overloading the vehicle, increasing the risk of a crash.",
+        "remedy": "SET will notify owners and provide a corrected label for placement over the inaccurate label, free of charge.  The recall began August 23, 2019.  Owners may contact Toyota customer service at 1-888-27",
+        "reportDate": "28/06/2019"
+      },
+      {
+        "campaign": "19V576000",
+        "component": "BACK OVER PREVENTION: SENSING SYSTEM: CAMERA",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2019 RAV4 and RAV4 Hybrid vehicles.  Due to a damaged electrical connector, the back-up camera may not activate when the vehicle is in reverse.  As such, these vehicles fail to comply to Federal Motor Safety S",
+        "consequence": "If the backup camera system does not activate and the driver does not check his/her surroundings while reversing, there is an increased risk of a crash.",
+        "remedy": "Toyota will notify owners, and dealers will inspect the back-up camera system and replace the audio display unit, if necessary, free of charge.  The recall began September 27, 2019.  Owners may contac",
+        "reportDate": "06/08/2019"
+      }
+    ],
+    "safety": {
+      "nveDescription": "2019 Toyota RAV4 SUV AWD",
+      "overall": 5,
+      "frontalCrash": 4,
+      "sideCrash": 5,
+      "rollover": 4
+    },
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Toyota_RAV4_Hybrid%2C_GIMS_2019%2C_Le_Grand-Saconnex_%28GIMS0518%29.jpg/960px-Toyota_RAV4_Hybrid%2C_GIMS_2019%2C_Le_Grand-Saconnex_%28GIMS0518%29.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/7/73/Toyota_RAV4_Hybrid%2C_GIMS_2019%2C_Le_Grand-Saconnex_%28GIMS0518%29.jpg",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Toyota_RAV4_Hybrid,_GIMS_2019,_Le_Grand-Saconnex_(GIMS0518).jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Matti Blume",
+      "title": "File:Toyota RAV4 Hybrid, GIMS 2019, Le Grand-Saconnex (GIMS0518).jpg",
+      "query": "2019 Toyota RAV4"
+    }
+  },
+  {
+    "make": "Honda",
+    "model": "Civic",
+    "year": 2021,
+    "trim": "Sport",
+    "driveHint": "",
+    "specs": {
+      "epaModel": "Civic 4Dr",
+      "epaId": "43355",
+      "engine": "1.5L 4-cyl",
+      "displacement": "1.5",
+      "cylinders": 4,
+      "transmission": "Automatic (AV-S7)",
+      "drive": "Front-Wheel Drive",
+      "fuelType": "Regular Gasoline",
+      "mpgCity": 30,
+      "mpgHwy": 38,
+      "mpgComb": 33,
+      "vClass": "Midsize Cars",
+      "co2": 266
+    },
+    "recalls": [
+      {
+        "campaign": "23V458000",
+        "component": "SERVICE BRAKES, HYDRAULIC:FOUNDATION COMPONENTS:MASTER CYLINDER",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2020-2021 Civic, 2020-2023 Ridgeline, 2021-2023 Passport, 2021-2022 Pilot, and 2020 Acura MDX vehicles.  The tie rod fastener that connects the brake booster and the brake master cylinder may have been improperly assembled dur",
+        "consequence": "Brake master cylinder separation can cause a loss of brake function and increase the risk of a crash.",
+        "remedy": "Dealers will inspect and repair the brake booster assembly as necessary, free of charge.  Owner notification letters were mailed August 7, 2023.  Owners may contact Honda customer service at 1-888-234",
+        "reportDate": "29/06/2023"
+      },
+      {
+        "campaign": "24V064000",
+        "component": "AIR BAGS:SENSOR:OCCUPANT CLASSIFICATION:FRONT PASSENGER",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2020-2022 Pilot, Accord, Civic sedan, HR-V, Odyssey, 2020 Civic coupe, Fit, 2021-2022 Civic hatchback, 2021 Civic Type R, Insight, 2020-2021 CR-V, CR-V Hybrid, Passport, Ridgeline, Accord Hybrid, 2020 Acura MDX, 2022 Acura MDX",
+        "consequence": "An air bag that deploys unintentionally during a crash can increase the risk of injury.",
+        "remedy": "Dealers will replace the seat weight sensors, free of charge.  Owner notification letters were mailed March 28, 2024, October 18, 2024, and August 2025.  This is a phased recall.  Owners may contact H",
+        "reportDate": "01/02/2024"
+      },
+      {
+        "campaign": "23V858000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2013-2023 Honda Accord, Civic Coupe, Civic Sedan, Civic Hatchback, Civic Type R, CR-V, HR-V, Ridgeline, Odyssey, Acura ILX, MDX, MDX Hybrid, RDX, RLX, TLX, 2019-2022 Honda Insight, Passport, 2020 Honda CR-V Hybrid, 2018-2019 H",
+        "consequence": "Fuel pump failure can cause an engine stall while driving, increasing the risk of a crash.",
+        "remedy": "Dealers will replace the fuel pump module, free of charge.  Owner letters were mailed September 6, 2024.  Owners may contact Honda customer service at 1-888-234-2138.  Honda's numbers for this recall ",
+        "reportDate": "18/12/2023"
+      },
+      {
+        "campaign": "26V332000",
+        "component": "AIR BAGS:SENSOR:OCCUPANT CLASSIFICATION:FRONT PASSENGER",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2018-2021, 2023 Acura TLX, 2019-2024 RDX, 2017-2020, 2022-2026 MDX, 2017-2021, 2023, 2025 Honda Ridgeline, 2017-2022 Pilot, 2019-2021 Passport, 2018-2026 Odyssey, 2019-2022 Insight, 2019-2021 HR-V, 2018-2020 Fit, 2020-2022 CR-",
+        "consequence": "Air bags that deploy unintentionally during a crash increase the risk of injury.",
+        "remedy": "Dealers will replace the seat weight sensors, free of charge. Owner notification letters are expected to be mailed July 6, 2026. Owners may contact Honda's customer service at 1-888-234-2138. Honda's ",
+        "reportDate": "21/05/2026"
+      }
+    ],
+    "safety": {
+      "nveDescription": "2021 Honda CIVIC 4 DR FWD",
+      "overall": 5,
+      "frontalCrash": 5,
+      "sideCrash": 5,
+      "rollover": 5
+    },
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Honda_Civic_%282021%29_sedan_Sport_DSC_7054.jpg/960px-Honda_Civic_%282021%29_sedan_Sport_DSC_7054.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Honda_Civic_%282021%29_sedan_Sport_DSC_7054.jpg",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Honda_Civic_(2021)_sedan_Sport_DSC_7054.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Alexander-93",
+      "title": "File:Honda Civic (2021) sedan Sport DSC 7054.jpg",
+      "query": "2021 Honda Civic"
+    }
+  },
+  {
+    "make": "Honda",
+    "model": "Civic",
+    "year": 2019,
+    "trim": "EX",
+    "driveHint": "",
+    "specs": {
+      "epaModel": "Civic 2Dr",
+      "epaId": "40837",
+      "engine": "1.5L 4-cyl",
+      "displacement": "1.5",
+      "cylinders": 4,
+      "transmission": "Automatic (AV-S7)",
+      "drive": "Front-Wheel Drive",
+      "fuelType": "Regular Gasoline",
+      "mpgCity": 30,
+      "mpgHwy": 37,
+      "mpgComb": 33,
+      "vClass": "Compact Cars",
+      "co2": 269
+    },
+    "recalls": [
+      {
+        "campaign": "20V314000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2018-2019 Acura NSX, 2019 Acura RDX, RLX and RLX Sport Hybrid, 2018-2019 Honda Accord, Civic Hatchback, Civic Type R and HR-V, 2019-2020 Insight and 2019 Fit vehicles.  The low-pressure fuel pump inside the fuel tank may fail.",
+        "consequence": "If the fuel pump fails, the engine can stall while driving, increasing the risk of a crash.",
+        "remedy": "Honda will notify owners and dealers will replace the fuel pump assembly, free of charge.  The recall began July 22, 2020.  Owners may contact Honda customer service at 1-888-234-2138.",
+        "reportDate": "28/05/2020"
+      },
+      {
+        "campaign": "21V215000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2019-2020 Acura MDX, MDX Sport Hybrid, RDX, TLX, Honda Accord, Civic Hatchback, Insight, 2019 Acura ILX, Honda Accord Hybrid, Civic Coupe, Civic Coupe Si, Civic Sedan, Civic Sedan Si, Civic Type R, Fit, HR-V, Odyssey, Passport",
+        "consequence": "Fuel pump failure can cause an engine stall while driving, increasing the risk of a crash.",
+        "remedy": "Honda will notify owners, and dealers will replace the fuel pump assembly, free of charge.  Owner letters were mailed May 18, 2021.  Owners may contact Honda customer service at 1-888-234-2138.  Note:",
+        "reportDate": "25/03/2021"
+      },
+      {
+        "campaign": "23V858000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2013-2023 Honda Accord, Civic Coupe, Civic Sedan, Civic Hatchback, Civic Type R, CR-V, HR-V, Ridgeline, Odyssey, Acura ILX, MDX, MDX Hybrid, RDX, RLX, TLX, 2019-2022 Honda Insight, Passport, 2020 Honda CR-V Hybrid, 2018-2019 H",
+        "consequence": "Fuel pump failure can cause an engine stall while driving, increasing the risk of a crash.",
+        "remedy": "Dealers will replace the fuel pump module, free of charge.  Owner letters were mailed September 6, 2024.  Owners may contact Honda customer service at 1-888-234-2138.  Honda's numbers for this recall ",
+        "reportDate": "18/12/2023"
+      },
+      {
+        "campaign": "26V332000",
+        "component": "AIR BAGS:SENSOR:OCCUPANT CLASSIFICATION:FRONT PASSENGER",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2018-2021, 2023 Acura TLX, 2019-2024 RDX, 2017-2020, 2022-2026 MDX, 2017-2021, 2023, 2025 Honda Ridgeline, 2017-2022 Pilot, 2019-2021 Passport, 2018-2026 Odyssey, 2019-2022 Insight, 2019-2021 HR-V, 2018-2020 Fit, 2020-2022 CR-",
+        "consequence": "Air bags that deploy unintentionally during a crash increase the risk of injury.",
+        "remedy": "Dealers will replace the seat weight sensors, free of charge. Owner notification letters are expected to be mailed July 6, 2026. Owners may contact Honda's customer service at 1-888-234-2138. Honda's ",
+        "reportDate": "21/05/2026"
+      }
+    ],
+    "safety": {
+      "nveDescription": "2019 Honda CIVIC 4 DR FWD",
+      "overall": 5,
+      "frontalCrash": 5,
+      "sideCrash": 5,
+      "rollover": 5
+    },
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Honda_Civic%2C_GIMS_2019%2C_Le_Grand-Saconnex_%28GIMS0704%29.jpg/960px-Honda_Civic%2C_GIMS_2019%2C_Le_Grand-Saconnex_%28GIMS0704%29.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/7/71/Honda_Civic%2C_GIMS_2019%2C_Le_Grand-Saconnex_%28GIMS0704%29.jpg",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Honda_Civic,_GIMS_2019,_Le_Grand-Saconnex_(GIMS0704).jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Matti Blume",
+      "title": "File:Honda Civic, GIMS 2019, Le Grand-Saconnex (GIMS0704).jpg",
+      "query": "2019 Honda Civic"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F-150",
+    "year": 2020,
+    "trim": "Lariat",
+    "driveHint": "4WD",
+    "specs": {
+      "epaModel": "F150 Pickup 4WD",
+      "epaId": "42176",
+      "engine": "3.5L 6-cyl",
+      "displacement": "3.5",
+      "cylinders": 6,
+      "transmission": "Automatic (S10)",
+      "drive": "Part-time 4-Wheel Drive",
+      "fuelType": "Regular Gasoline",
+      "mpgCity": 16,
+      "mpgHwy": 22,
+      "mpgComb": 18,
+      "vClass": "Standard Pickup Trucks 4WD",
+      "co2": 488
+    },
+    "recalls": [
+      {
+        "campaign": "19V903000",
+        "component": "TIRES:BEAD",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2020 F-150 trucks equipped with 17-inch spare tires.  The spare tire could have been damaged when it was installed on the rim.",
+        "consequence": "The damage can cause the tire to rapidly lose air pressure or detach from the wheel, increasing the risk of a crash.",
+        "remedy": "Ford will notify owners, and dealers will replace the spare tire, free of charge.  The recall began January 13, 2020.  Owners may contact Ford customer service at 1-866-436-7332.  Ford's number for th",
+        "reportDate": "18/12/2019"
+      },
+      {
+        "campaign": "20V097000",
+        "component": "EXTERIOR LIGHTING:HEADLIGHTS",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2018-2020 F-150 trucks equipped with high series LED headlamps with Autolamp (On/Off) functionality.  The Daytime Running Lamps (DRL) may remain activated instead of dimming to parking lamps when the Master Lighting Switch (MLS) is m",
+        "consequence": "DRL that cannot dim may reduce the visibility of other drivers, increasing the risk of a crash.",
+        "remedy": "Ford will notify owners, and dealers will reprogram the body control module, free of charge. The recall began March 10, 2020. Owners may contact Ford customer service at 1-866-436-7332. Ford's number ",
+        "reportDate": "21/02/2020"
+      },
+      {
+        "campaign": "19V805000",
+        "component": "ELECTRICAL SYSTEM:12V/24V/48V BATTERY:CABLES",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2019-2020 F-150 vehicles. The fastener securing the Power Distribution Box (PDB) 12V cable and Battery Monitoring System (BMS) eyelets to the positive battery terminal may loosen and affect the vehicle's systems such as instrument pa",
+        "consequence": "Inoperative vehicle systems or an engine stall can increase the risk of a crash.  Reduced braking and steering efforts increases the risk of a crash.  This condition could also create a resistive shor",
+        "remedy": "Ford will notify owners, and dealers will inspect the positive battery cable/BMS/PDB joint for excess sealant adhesive and remove any excessive adhesive, reassemble the joint, and retorque the fastene",
+        "reportDate": "12/11/2019"
+      },
+      {
+        "campaign": "20V575000",
+        "component": "BACK OVER PREVENTION: SENSING SYSTEM: CAMERA",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2020 Ford F-150, F-250, F-350, F-450, F-550, Explorer, Mustang, Transit, Expedition, Escape, Ranger and Edge, and Lincoln Nautilus and Corsair vehicles.  Due to a poor electrical connection, the rearview camera may intermittently dis",
+        "consequence": "Reduced rearward visibility can increase the risk of a crash.",
+        "remedy": "Ford will notify owners, and dealers will replace the rearview camera, free of charge.  The recall began November 17, 2020.  Remedy became available on February 1, 2021.  Owner notification letters we",
+        "reportDate": "23/09/2020"
+      },
+      {
+        "campaign": "20V467000",
+        "component": "ELECTRICAL SYSTEM:STARTER ASSEMBLY",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2020 F-150 vehicles.  An incorrect attachment nut may have been used to attach the battery positive (B+) power supply cable to the starter motor, possibly affecting the electrical conductivity, resulting in excess heat and electrical",
+        "consequence": "Electrical arcing can increase the risk of a fire.",
+        "remedy": "Ford will notify owners, and dealers will replace the starter motor B+ power supply attachment nut, free of charge. The recall began August 25, 2020.  Owners may contact Ford customer service at 1-866",
+        "reportDate": "10/08/2020"
+      },
+      {
+        "campaign": "20V197000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:GEAR POSITION INDICATION (PRNDL)",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2020 Ranger and F-150 vehicles equipped with 10-speed automatic transmissions and certain 2020 Expedition vehicles equipped with a \"police\" package.  The transmission shift cable lock clip may not be fully seated, allowing the transm",
+        "consequence": "If the transmission selection does not match the indicated gear selection, and the parking brake is not applied, unintended vehicle movement can occur, increasing the risk of injury or crash.",
+        "remedy": "Ford will notify owners, and dealers will inspect and correct the shift cable locking clip installation, as necessary, free of charge.  The recall began April 27, 2020.  Owners may contact Ford custom",
+        "reportDate": "03/04/2020"
+      }
+    ],
+    "safety": {},
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/2020_Ford_F-150_XLT_SuperCrew_4x4_with_FX4_Off-Road_%26_Chrome_Packages%2C_front_left%2C_04-07-2023.jpg/960px-2020_Ford_F-150_XLT_SuperCrew_4x4_with_FX4_Off-Road_%26_Chrome_Packages%2C_front_left%2C_04-07-2023.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/5/56/2020_Ford_F-150_XLT_SuperCrew_4x4_with_FX4_Off-Road_%26_Chrome_Packages%2C_front_left%2C_04-07-2023.jpg",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File:2020_Ford_F-150_XLT_SuperCrew_4x4_with_FX4_Off-Road_%26_Chrome_Packages,_front_left,_04-07-2023.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "MercurySable99",
+      "title": "File:2020 Ford F-150 XLT SuperCrew 4x4 with FX4 Off-Road & Chrome Packages, front left, 04-07-2023.jpg",
+      "query": "2020 Ford F-150"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "F-150",
+    "year": 2018,
+    "trim": "XLT",
+    "driveHint": "2WD",
+    "specs": {
+      "epaModel": "F150 2.7L 2WD GVWR>6649 LBS",
+      "epaId": "39243",
+      "engine": "2.7L 6-cyl",
+      "displacement": "2.7",
+      "cylinders": 6,
+      "transmission": "Automatic (S10)",
+      "drive": "Rear-Wheel Drive",
+      "fuelType": "Regular Gasoline",
+      "mpgCity": 19,
+      "mpgHwy": 25,
+      "mpgComb": 21,
+      "vClass": "Standard Pickup Trucks 2WD",
+      "co2": 420
+    },
+    "recalls": [
+      {
+        "campaign": "20V097000",
+        "component": "EXTERIOR LIGHTING:HEADLIGHTS",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2018-2020 F-150 trucks equipped with high series LED headlamps with Autolamp (On/Off) functionality.  The Daytime Running Lamps (DRL) may remain activated instead of dimming to parking lamps when the Master Lighting Switch (MLS) is m",
+        "consequence": "DRL that cannot dim may reduce the visibility of other drivers, increasing the risk of a crash.",
+        "remedy": "Ford will notify owners, and dealers will reprogram the body control module, free of charge. The recall began March 10, 2020. Owners may contact Ford customer service at 1-866-436-7332. Ford's number ",
+        "reportDate": "21/02/2020"
+      },
+      {
+        "campaign": "21V983000",
+        "component": "LATCHES/LOCKS/LINKAGES:TAILGATE:LATCH",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2018 F-150 vehicles with manual and power release tailgates.  The tailgate latches may unlatch unexpectedly while driving.",
+        "consequence": "Unexpected tailgate opening may allow unrestrained cargo to fall out of the truck bed and become a road hazard, increasing the risk of a crash.",
+        "remedy": "Dealers will replace the left-hand and right-hand tailgate latches, free of charge.  An interim notification letter was mailed January 31, 2022.  Owner notification letters were mailed on May 31, 2022",
+        "reportDate": "16/12/2021"
+      },
+      {
+        "campaign": "21V155000",
+        "component": "TIRES",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2018 F-150, 2018-2020 F-250, F-350, and 2019 Escape vehicles equipped with Continental tires.  On the affected vehicles, it is possible that one or more tires were cured for too long during tire production.",
+        "consequence": "Over cured tires may develop a break in the sidewall, resulting in sudden air loss or belt edge separation which could lead to tread/belt loss.  Either condition can cause a loss of vehicle control, i",
+        "remedy": "Ford will notify owners, and dealers will inspect the tires, and replace them as necessary, free of charge.  The recall began on March 27, 2021.  Owners may contact Ford customer service at 1-866-436-",
+        "reportDate": "10/03/2021"
+      },
+      {
+        "campaign": "21E027000",
+        "component": "SUSPENSION:FRONT:CONTROL ARM:UPPER BALL JOINT",
+        "summary": "Tenneco Automotive (DRiV) is recalling certain MOOG K500359 ball joints, for aftermarket installation on 2015-2018 Ford F-150 trucks.  The ball joint may have a misaligned dust boot and may be missing alignment hole and installation warning tag, which may lead to improper alignme",
+        "consequence": "An incorrectly installed ball joint may cause the ball joint stud to break, which can compromise front wheel control, increasing the risk of a crash.",
+        "remedy": "DRiV will notify owners, and dealers will inspect, and if necessary replace the ball joint, free of charge.  Owner letters were mailed May 5, 2021.  Owners may contact Tenneco Automotive customer serv",
+        "reportDate": "12/04/2021"
+      },
+      {
+        "campaign": "18V894000",
+        "component": "ENGINE",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2015-2019 Ford F-150 and 2017-2019 Ford F-250 Super Duty, F-350 Super Duty, F-450 Super Duty, and F-550 Super Duty pick-up trucks equipped with an engine block heater.   Water and contaminants may get into the block heater cable's sp",
+        "consequence": "When the heater is plugged in, prolonged corrosion could cause a resistive short, increasing the risk of overheated or melted wiring which can increase the risk of a fire.",
+        "remedy": "Ford will notify owners, and dealers will disable the block heater cable, free of charge.  Once parts are available, Dealers will replace the engine block heater cable, free of charge.  The recall beg",
+        "reportDate": "18/12/2018"
+      },
+      {
+        "campaign": "18V392000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2018 Ford Expedition, F-150, and Lincoln Navigator vehicles equipped with 3.5L GTDI V6 engines.  These vehicles have high pressure fuel pump assemblies with welds that can fracture, which may cause an oil or fuel leak.",
+        "consequence": "A fuel leak in the presence of an ignition source may increase the risk of a fire.",
+        "remedy": "Ford will notify owners, and dealers will replace the high pressure fuel pump and associated components, free of charge.  The recall began July 17, 2018.  Owners may contact Ford customer service at 1",
+        "reportDate": "12/06/2018"
+      }
+    ],
+    "safety": {},
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/2018_Ford_F-150_Crew_Cab_front_5.26.18.jpg/960px-2018_Ford_F-150_Crew_Cab_front_5.26.18.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/7/71/2018_Ford_F-150_Crew_Cab_front_5.26.18.jpg",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File:2018_Ford_F-150_Crew_Cab_front_5.26.18.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Kevauto",
+      "title": "File:2018 Ford F-150 Crew Cab front 5.26.18.jpg",
+      "query": "2018 Ford F-150"
+    }
+  },
+  {
+    "make": "Tesla",
+    "model": "Model 3",
+    "year": 2022,
+    "trim": "Long Range",
+    "driveHint": "AWD",
+    "specs": {
+      "epaModel": "Model 3 Long Range AWD",
+      "epaId": "45011",
+      "engine": null,
+      "displacement": null,
+      "cylinders": null,
+      "transmission": "Automatic (A1)",
+      "drive": "All-Wheel Drive",
+      "fuelType": "Electricity",
+      "mpgCity": 134,
+      "mpgHwy": 126,
+      "mpgComb": 131,
+      "vClass": "Midsize Cars",
+      "co2": 0
+    },
+    "recalls": [
+      {
+        "campaign": "22V037000",
+        "component": "ELECTRICAL SYSTEM:ADAS:AUTONOMOUS/SELF DRIVING:SOFTWARE",
+        "summary": "Tesla, Inc. (Tesla) is recalling certain 2016-2022 Model S and Model X, 2017-2022 Model 3, and 2020-2022 Model Y vehicles.  The \"rolling stop\" functionality available as part of the Full Self-Driving (Beta) software may allow the vehicle to travel through an all-way stop intersec",
+        "consequence": "Failing to stop at a stop sign can increase the risk of a crash.",
+        "remedy": "Tesla will perform an over-the-air (OTA) software update that disables the \"rolling stop\" functionality, free of charge.  Owner notification letters were mailed March 28, 2022.  Owners may contact Tes",
+        "reportDate": "27/01/2022"
+      },
+      {
+        "campaign": "22V045000",
+        "component": "ELECTRICAL SYSTEM:SOFTWARE",
+        "summary": "Tesla, Inc. (Tesla) is recalling certain 2021-2022 Model S and Model X, 2017-2022 Model 3, and 2020-2022 Model Y vehicles.  The audible chime may not activate when the vehicle starts and the driver has not buckled their seat belt.  As such, these vehicles fail to comply with the ",
+        "consequence": "The driver may be unaware that their seat belt is not fastened, increasing the risk of injury during a crash.",
+        "remedy": "Tesla will perform an over-the-air (OTA) software update, free of charge.  Owner notification letters were mailed April 1, 2022.  Owners may contact Tesla customer service at 1-877-798-3752.  Tesla's ",
+        "reportDate": "01/02/2022"
+      },
+      {
+        "campaign": "22V050000",
+        "component": "ELECTRICAL SYSTEM:SOFTWARE",
+        "summary": "Tesla, Inc. (Tesla) is recalling certain 2021-2022 Model 3, Model S, Model X, and 2020-2022 Model Y vehicles.  A software error may cause a valve in the heat pump to open unintentionally and trap the refrigerant inside the evaporator, resulting in decreased defrosting performance",
+        "consequence": "Decreased defrosting performance may reduce the driver's visibility, increasing the risk of a crash.",
+        "remedy": "Tesla will perform an over-the-air (OTA) software update, free of charge.  Owner notification letters were mailed April 1, 2022.  Owners may contact Tesla customer service at 1-877-798-3752.  Tesla's ",
+        "reportDate": "02/02/2022"
+      },
+      {
+        "campaign": "22V063000",
+        "component": "ELECTRICAL SYSTEM:SOFTWARE",
+        "summary": "Tesla, Inc. (Tesla) is recalling certain 2020-2022 Model S, Model X, Model Y, and 2017-2022 Model 3 vehicles.  The Boombox function allows sounds to be played through an external speaker while the vehicle is in motion, which may obscure the Pedestrian Warning System (PWS) sounds.",
+        "consequence": "Pedestrians may be unaware of an approaching vehicle if the PWS sounds are obscured, increasing the risk of a crash.",
+        "remedy": "Tesla will perform an over-the-air (OTA) software update that will disable the Boombox functionality when the vehicle is in Drive, Neutral and Reverse modes, free of charge.  Owner notification letter",
+        "reportDate": "04/02/2022"
+      },
+      {
+        "campaign": "22V235000",
+        "component": "ELECTRICAL SYSTEM:SOFTWARE",
+        "summary": "Tesla, Inc. (Tesla) is recalling certain 2020-2022 Model Y, Model X, Model S, and 2017-2022 Model 3 vehicles.  The Boombox function allows sounds to be played through an external speaker while the vehicle is in motion, which may obscure the Pedestrian Warning System (PWS) sounds.",
+        "consequence": "Pedestrians may be unaware of an approaching vehicle if the PWS sounds are obscured, increasing the risk of a crash.",
+        "remedy": "Tesla will perform an over-the-air (OTA) software update that will disable the Boombox functionality when the vehicle is in Drive, Neutral and Reverse modes, including Summon and Smart Summon, free of",
+        "reportDate": "12/04/2022"
+      },
+      {
+        "campaign": "22V263000",
+        "component": "ELECTRICAL SYSTEM: INSTRUMENT CLUSTER/PANEL",
+        "summary": "Tesla, Inc. (Tesla) is recalling certain 2018-2022 Model 3 Performance vehicles.  The unit of speed (mph or km/h) may fail to display on the speedometer while in Track Mode.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard num",
+        "consequence": "The driver may not know how fast the vehicle is traveling without the mph or km/h unit display, increasing the risk of a crash.",
+        "remedy": "Tesla will perform an over-the-air (OTA) software update, free of charge.  Owner notification letters were mailed June 17, 2022.  Owners may contact Tesla customer service at 1-877-798-3752.  Tesla's ",
+        "reportDate": "18/04/2022"
+      }
+    ],
+    "safety": {
+      "nveDescription": "2022 Tesla Model 3 4 DR AWD",
+      "overall": 5,
+      "frontalCrash": 5,
+      "sideCrash": 5,
+      "rollover": 5
+    },
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Tesla_Model_3_Xiamen_02_2019-11-21.jpg/960px-Tesla_Model_3_Xiamen_02_2019-11-21.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/9/91/Tesla_Model_3_Xiamen_02_2019-11-21.jpg",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Tesla_Model_3_Xiamen_02_2019-11-21.jpg",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "James Young",
+      "title": "File:Tesla Model 3 Xiamen 02 2019-11-21.jpg",
+      "query": "2022 Tesla Model 3"
+    }
+  },
+  {
+    "make": "Tesla",
+    "model": "Model 3",
+    "year": 2020,
+    "trim": "Standard Range Plus",
+    "driveHint": "RWD",
+    "specs": {
+      "epaModel": "Model 3 Long Range",
+      "epaId": "42274",
+      "engine": null,
+      "displacement": null,
+      "cylinders": null,
+      "transmission": "Automatic (A1)",
+      "drive": "Rear-Wheel Drive",
+      "fuelType": "Electricity",
+      "mpgCity": 136,
+      "mpgHwy": 123,
+      "mpgComb": 130,
+      "vClass": "Midsize Cars",
+      "co2": 0
+    },
+    "recalls": [
+      {
+        "campaign": "22V037000",
+        "component": "ELECTRICAL SYSTEM:ADAS:AUTONOMOUS/SELF DRIVING:SOFTWARE",
+        "summary": "Tesla, Inc. (Tesla) is recalling certain 2016-2022 Model S and Model X, 2017-2022 Model 3, and 2020-2022 Model Y vehicles.  The \"rolling stop\" functionality available as part of the Full Self-Driving (Beta) software may allow the vehicle to travel through an all-way stop intersec",
+        "consequence": "Failing to stop at a stop sign can increase the risk of a crash.",
+        "remedy": "Tesla will perform an over-the-air (OTA) software update that disables the \"rolling stop\" functionality, free of charge.  Owner notification letters were mailed March 28, 2022.  Owners may contact Tes",
+        "reportDate": "27/01/2022"
+      },
+      {
+        "campaign": "21V834000",
+        "component": "AIR BAGS:SIDE/WINDOW:CURTAIN",
+        "summary": "Tesla, Inc. (Tesla) is recalling certain 2020-2021, 2023 Model 3 vehicles.  The left and/or right side curtain air bag may have been improperly secured to the roof rail, which could result in a twisted air bag.  As such, these vehicles fail to comply with the requirements of Fede",
+        "consequence": "A twisted side curtain air bag may improperly deploy, increasing the risk of injury or occupant ejection during a crash.",
+        "remedy": "Tesla Service will inspect and realign the left and right side curtain air bag as necessary, free of charge.  Owner notification letters were mailed December 23, 2021.  Owners may contact Tesla custom",
+        "reportDate": "25/10/2021"
+      },
+      {
+        "campaign": "21V835000",
+        "component": "SUSPENSION:CRITICAL FASTENERS",
+        "summary": "Tesla, Inc. (Tesla) is recalling certain 2020-2021 Model Y and 2019-2021 Model 3 vehicles.  The front suspension lateral link fasteners may loosen, allowing the lateral link to separate from the sub-frame.",
+        "consequence": "A lateral link separation could shift the wheel alignment, causing instability and increasing the risk of a crash.",
+        "remedy": "Tesla Service will tighten or replace the lateral link fasteners as necessary, free of charge.  Owner notification letters were mailed December 20, 2021.  Owners may contact Tesla customer service at ",
+        "reportDate": "25/10/2021"
+      },
+      {
+        "campaign": "22V045000",
+        "component": "ELECTRICAL SYSTEM:SOFTWARE",
+        "summary": "Tesla, Inc. (Tesla) is recalling certain 2021-2022 Model S and Model X, 2017-2022 Model 3, and 2020-2022 Model Y vehicles.  The audible chime may not activate when the vehicle starts and the driver has not buckled their seat belt.  As such, these vehicles fail to comply with the ",
+        "consequence": "The driver may be unaware that their seat belt is not fastened, increasing the risk of injury during a crash.",
+        "remedy": "Tesla will perform an over-the-air (OTA) software update, free of charge.  Owner notification letters were mailed April 1, 2022.  Owners may contact Tesla customer service at 1-877-798-3752.  Tesla's ",
+        "reportDate": "01/02/2022"
+      },
+      {
+        "campaign": "21V389000",
+        "component": "SEAT BELTS",
+        "summary": "Tesla, Inc. (Tesla) is recalling certain 2018-2020 Model 3 and 2019-2021 Model Y vehicles.  One or both fasteners that secure the front seat shoulder belt to the b-pillar may not be properly attached.",
+        "consequence": "An improperly attached fastener may prevent the seat belt system from performing as designed, increasing the risk of injury.",
+        "remedy": "Tesla Service will inspect and repair both fasteners if necessary, free of charge.  Owner notification letters were mailed July 23, 2021.  Owners may contact Tesla customer service online by visiting ",
+        "reportDate": "25/05/2021"
+      },
+      {
+        "campaign": "21V00D000",
+        "component": "ELECTRICAL SYSTEM:WIRING: REAR COMPARTMENT/TRUNK",
+        "summary": "Tesla, Inc. (Tesla) is recalling all 2017-2020 Model 3 vehicles.  The rearview camera cable harness may be damaged by the opening and closing of the trunk lid, preventing the rearview camera image from displaying.",
+        "consequence": "A rearview camera that does not function reduces the driver's rear view, increasing the risk of a crash.",
+        "remedy": "Tesla Service will inspect and install a guide protector and new cable harness as necessary, free of charge.  Owner notification letters were mailed April 24, 2022.  Owners may contact Tesla customer ",
+        "reportDate": "21/12/2021"
+      }
+    ],
+    "safety": {
+      "nveDescription": "2020 Tesla Model 3 4 DR RWD",
+      "overall": 5,
+      "frontalCrash": 5,
+      "sideCrash": 5,
+      "rollover": 5
+    },
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/2020_Tesla_Model_3_Performance_AWD_%2897454%29.jpg/960px-2020_Tesla_Model_3_Performance_AWD_%2897454%29.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/2020_Tesla_Model_3_Performance_AWD_%2897454%29.jpg",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File:2020_Tesla_Model_3_Performance_AWD_(97454).jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Calreyn88",
+      "title": "File:2020 Tesla Model 3 Performance AWD (97454).jpg",
+      "query": "2020 Tesla Model 3"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Wrangler",
+    "year": 2021,
+    "trim": "Rubicon",
+    "driveHint": "4WD",
+    "specs": {
+      "epaModel": "Wrangler 2dr 4WD",
+      "epaId": "42906",
+      "engine": "3.6L 6-cyl",
+      "displacement": "3.6",
+      "cylinders": 6,
+      "transmission": "Automatic 8-spd",
+      "drive": "4-Wheel Drive",
+      "fuelType": "Regular Gasoline",
+      "mpgCity": 20,
+      "mpgHwy": 24,
+      "mpgComb": 21,
+      "vClass": "Small Sport Utility Vehicle 4WD",
+      "co2": 416
+    },
+    "recalls": [
+      {
+        "campaign": "21V028000",
+        "component": "POWER TRAIN:CLUTCH ASSEMBLY",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2018-2021 Jeep Wrangler and 2020-2021 Jeep Gladiator vehicles equipped with manual transmissions.  The clutch pressure plate may overheat and fracture.",
+        "consequence": "Overheated clutch components may increase the risk of a fire.  Additionally, damage to other nearby components can result in debris falling onto the road or a loss of drive, increasing the risk of a c",
+        "remedy": "FCA US LLC will notify owners, and dealers will add software to reduce engine torque capability when clutch assembly temperatures rise to a level that may damage the inner pressure plate, free of char",
+        "reportDate": "28/01/2021"
+      },
+      {
+        "campaign": "22V638000",
+        "component": "BACK OVER PREVENTION:DISPLAY FUNCTION",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2020-2021 Jeep Wrangler, RAM 1500 and 2021 Jeep Gladiator vehicles.  A radio software error may prevent the rearview image from displaying.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety St",
+        "consequence": "A rearview camera that does not display an image reduces the driver's rear view, increasing the risk of a crash.",
+        "remedy": "Dealers will update the radio software, free of charge.  Owner notification letters were mailed October 6, 2022.  Owners may contact FCA US, LLC customer service at 1-800-853-1403.  FCA, LLC's number ",
+        "reportDate": "25/08/2022"
+      },
+      {
+        "campaign": "22V766000",
+        "component": "SEAT BELTS:PRETENSIONER",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2022 Ram 1500, Jeep Gladiator, and 2021 Jeep Wrangler vehicles.  The front seat belt retractors may have an improperly welded micro gas generator, which can result in seat belt pretensioner failure.",
+        "consequence": "A seat belt with pretensioner failure may not properly restrain an occupant during a crash, increasing the risk of injury.",
+        "remedy": "Dealers will replace the front seat belt retractors. free of charge.  Owner notification letters were mailed December 8, 2022.  Owners may contact Chrysler customer service at 1-800-853-1403.  Chrysle",
+        "reportDate": "13/10/2022"
+      },
+      {
+        "campaign": "22V767000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2020-2022 Jeep Wrangler, Ram 1500, and 2021-2022 Jeep Gladiator vehicles equipped with 3.0L diesel engines.  The high pressure fuel pump (HPFP) may fail, causing an engine stall.",
+        "consequence": "An engine stall can increase the risk of a crash.",
+        "remedy": "Dealers will replace the HPFP and inspect and replace additional fuel system components, as necessary, free of charge.  Owner notification letters were mailed October 17, 2023.  Owners may contact Chr",
+        "reportDate": "13/10/2022"
+      },
+      {
+        "campaign": "22V865000",
+        "component": "ENGINE",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2021-2023 Jeep Wrangler 4xe vehicles equipped with 2.0L Plug-In Hybrid Electric Vehicle engines.  A loss of communication may cause an engine shutdown.",
+        "consequence": "An engine shutdown can cause a loss of drive power, increasing the risk of a crash.",
+        "remedy": "There is more than one involved component and calibration software.  Updating the calibration software in the Transmission Control Module, Hybrid Control Processor and Auxiliary Hybrid Control Process",
+        "reportDate": "23/11/2022"
+      },
+      {
+        "campaign": "23V116000",
+        "component": "POWER TRAIN:CLUTCH ASSEMBLY",
+        "summary": "Chrysler (FCA US, LLC) is recalling certain 2018-2023 Jeep Wrangler, and 2020-2023 Jeep Gladiator vehicles equipped with manual transmissions.  The clutch pressure plate may overheat and fracture.",
+        "consequence": "Overheated clutch components may increase the risk of a fire.  Additionally, damage to other nearby components can result in debris falling onto the road or a loss of drive, increasing the risk of a c",
+        "remedy": "Dealers will replace the clutch assembly and update the software, free of charge.  Owner notification letters were mailed from November 16, 2023 through July 25, 2024.  Owners may contact (FCA US, LLC",
+        "reportDate": "23/02/2023"
+      }
+    ],
+    "safety": {
+      "nveDescription": "2021 Jeep Wrangler SUV 4WD",
+      "overall": null,
+      "frontalCrash": 4,
+      "sideCrash": null,
+      "rollover": 3
+    },
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/2021_jeep_wrangler_2.jpg/960px-2021_jeep_wrangler_2.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5e/2021_jeep_wrangler_2.jpg",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File:2021_jeep_wrangler_2.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Jackmalott",
+      "title": "File:2021 jeep wrangler 2.jpg",
+      "query": "2021 Jeep Wrangler"
+    }
+  },
+  {
+    "make": "Jeep",
+    "model": "Wrangler",
+    "year": 2018,
+    "trim": "Sport",
+    "driveHint": "4WD",
+    "specs": {
+      "epaModel": "Wrangler 4WD",
+      "epaId": "39582",
+      "engine": "3.6L 6-cyl",
+      "displacement": "3.6",
+      "cylinders": 6,
+      "transmission": "Automatic 5-spd",
+      "drive": "4-Wheel Drive",
+      "fuelType": "Regular Gasoline",
+      "mpgCity": 17,
+      "mpgHwy": 21,
+      "mpgComb": 18,
+      "vClass": "Small Sport Utility Vehicle 4WD",
+      "co2": 481
+    },
+    "recalls": [
+      {
+        "campaign": "19V680000",
+        "component": "SEAT BELTS:FRONT:ANCHORAGE",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2011-2018 Jeep Wrangler right hand drive vehicles.  The driver's seat belt buckle mounting strap may fracture and separate from the seat frame.",
+        "consequence": "A separated or severed seat belt buckle strap will result in an inoperable seat belt, increasing the risk of injury in the event of a crash.",
+        "remedy": "FCA US will notify owners, and dealers will replace the driver's seat belt buckle, free of charge.  Interim notices informing owners of the safety risk were mailed November 19, 2019.  Owners will rece",
+        "reportDate": "26/09/2019"
+      },
+      {
+        "campaign": "18V675000",
+        "component": "STRUCTURE:FRAME AND MEMBERS",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2018-2019 Jeep Wrangler vehicles.  The front track bar brackets may be improperly welded, which can cause the bracket to separate from the frame, reducing steering capability.",
+        "consequence": "An unexpected reduction in steering ability, can increase the risk of a crash.",
+        "remedy": "Chrysler will notify owners, and dealers will inspect and repair the track bar bracket welds, as necessary, free of charge.  The recall is expected to begin November 17, 2018.  Owners may contact Chry",
+        "reportDate": "28/09/2018"
+      },
+      {
+        "campaign": "18V231000",
+        "component": "STRUCTURE:FRAME AND MEMBERS",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2018 Jeep Wrangler vehicles.  The rear under body ladder rail may corrode, possibly reducing the strength of the rear floor pan and causing the left rear seat mount to become loose.",
+        "consequence": "If the floor pan strength is reduced and/or the rear seat mount becomes loose, the rear seat may detach in a crash, increasing the risk of injury.",
+        "remedy": "Chrysler will notify owners, and dealers will inspect and, as necessary, coat the interior and exterior of the driver's side rear underbody ladder rail with three-part rust protection.  The recall beg",
+        "reportDate": "12/04/2018"
+      },
+      {
+        "campaign": "18V786000",
+        "component": "LATCHES/LOCKS/LINKAGES:DOORS:LATCH",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2018 Jeep Wrangler four-door vehicles.  The right rear passenger door latch may not be in the correct location, possibly preventing the door from latching properly.",
+        "consequence": "If the right rear passenger door opens unexpectedly, it can increase the risk of injury.",
+        "remedy": "Chrysler will notify owners, and dealers will repair the right rear door latch reinforcement, free of charge.  The recall begin December 6, 2018.  Owners may contact Chrysler customer service at 1-800",
+        "reportDate": "08/11/2018"
+      },
+      {
+        "campaign": "18V280000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2018 Dodge Charger, Durango and Challenger, Jeep Grand Cherokee and Wrangler, Chrysler 300, and RAM 1500 vehicles.  An incorrect transmission park lock rod may have been installed in the transmission.",
+        "consequence": "If the incorrect park lock rod is installed, the transmission may not shift into 'PARK' and keep the vehicle from moving, increasing the risk of unintended vehicle movement and the risk of a crash.",
+        "remedy": "Chrysler will notify owners, and dealers will install the correct park lock rod, free of charge.  The recall began June 28, 2018.  Owners may contact Chrysler customer service at 1-800-853-1403.  Chry",
+        "reportDate": "01/05/2018"
+      },
+      {
+        "campaign": "18V332000",
+        "component": "ELECTRICAL SYSTEM:WIRING",
+        "summary": "Chrysler (FCA US LLC) is recalling certain 2014-2018 Dodge Journey, Charger and Durango, RAM 2500, 3500, 3500 Cab Chassis (more than 10,000lb), 4500 Cab Chassis and 5500 Cab Chassis, Jeep Cherokee and Grand Cherokee and Chrysler 300, 2014-2019 RAM 1500, 2015-2018 Dodge Challenger",
+        "consequence": "If the vehicle maintains its speed or accelerates despite attempts to deactivate the cruise control, there would be an increased risk of a crash.",
+        "remedy": "Chrysler will notify owners, and dealers will inspect the software, and perform a software flash on the engine or powertrain control module, free of charge.  The recall began June 4, 2018.  Owners may",
+        "reportDate": "17/05/2018"
+      }
+    ],
+    "safety": {
+      "nveDescription": "2018 Jeep Wrangler 2 DR 4WD Later Release",
+      "overall": null,
+      "frontalCrash": null,
+      "sideCrash": null,
+      "rollover": 3
+    },
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Jeep_Wrangler_Rubicon%2C_GIMS_2018%2C_Le_Grand-Saconnex_%281X7A1811%29.jpg/960px-Jeep_Wrangler_Rubicon%2C_GIMS_2018%2C_Le_Grand-Saconnex_%281X7A1811%29.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Jeep_Wrangler_Rubicon%2C_GIMS_2018%2C_Le_Grand-Saconnex_%281X7A1811%29.jpg",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Jeep_Wrangler_Rubicon,_GIMS_2018,_Le_Grand-Saconnex_(1X7A1811).jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Matti Blume",
+      "title": "File:Jeep Wrangler Rubicon, GIMS 2018, Le Grand-Saconnex (1X7A1811).jpg",
+      "query": "2018 Jeep Wrangler"
+    }
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Silverado 1500",
+    "year": 2021,
+    "trim": "LT",
+    "driveHint": "4WD",
+    "specs": {
+      "epaModel": "Silverado 4WD",
+      "epaId": "43096",
+      "engine": "6.2L 8-cyl",
+      "displacement": "6.2",
+      "cylinders": 8,
+      "transmission": "Automatic 10-spd",
+      "drive": "4-Wheel Drive",
+      "fuelType": "Premium Gasoline",
+      "mpgCity": 16,
+      "mpgHwy": 21,
+      "mpgComb": 18,
+      "vClass": "Standard Pickup Trucks 4WD",
+      "co2": 493
+    },
+    "recalls": [
+      {
+        "campaign": "20V792000",
+        "component": "SEAT BELTS",
+        "summary": "General Motors, LLC (GM) is recalling certain 2019-2021 Chevrolet Silverado 1500 and GMC Sierra 1500, 2021 Chevrolet Suburban and Tahoe and GMC Yukon XL and 2020-2021 Chevrolet Silverado 2500 and 3500 and GMC Sierra 2500 and 3500 vehicles.   The seat belt brackets may not be secu",
+        "consequence": "If a seat-belt bracket is not secured, the seat belt may not properly restrain an occupant in the front-row center seat position, increasing the risk of injury in a crash.",
+        "remedy": "GM will notify owners, and dealers will inspect left-side and right-side front-row center seat-belt bracket attachments and reassemble it correctly as necessary, free of charge.  The recall began Janu",
+        "reportDate": "17/12/2020"
+      },
+      {
+        "campaign": "20V811000",
+        "component": "SEAT BELTS",
+        "summary": "General Motors, LLC (GM) is recalling certain 2020 Chevrolet Bolt EV and 2021 GMC Canyon and Sierra 1500, 2500 and 3500, Yukon, Yukon XL, Cadillac Escalade and Escalade ESV and Chevrolet Blazer, Camaro, Colorado, Equinox, Silverado 1500, 2500 and 3500, Suburban and Tahoe vehicles",
+        "consequence": "If a seat belt assembly is not properly attached to the vehicle, the seat belt may not properly restrain an occupant in the event of a crash, increasing the risk of injury.",
+        "remedy": "GM will notify owners, and dealers will replace the suspect bolts, free of charge.  The recall began January 29, 2021.  Owners may contact GMC customer service at 1-800-462-8785, Cadillac customer ser",
+        "reportDate": "23/12/2020"
+      },
+      {
+        "campaign": "20V684000",
+        "component": "TIRES",
+        "summary": "General Motors LLC (GM) is recalling certain 2020 Buick Enclave, Cadillac XT5, GMC Acadia and Chevrolet Traverse vehicles and 2020-2021 Chevrolet Silverado 1500, GMC Sierra 1500 vehicles.  The vehicles may have been manufactured with Continental tires that were overcured.",
+        "consequence": "Overcured tires may experience a carcass break in the sidewall resulting in a sudden air loss or could develop a belt edge separation which could lead to partial or full tread/belt loss.  Either condi",
+        "remedy": "GM will notify owners, and dealers will inspect vehicles and replace tires that have DOT number and production mold number combinations identified by Continental, free of charge.  The recall began Dec",
+        "reportDate": "05/11/2020"
+      },
+      {
+        "campaign": "21V495000",
+        "component": "AIR BAGS:FRONTAL",
+        "summary": "General Motors, LLC. (GM) is recalling certain 2021 Chevrolet Silverado 1500 vehicles.  The front driver's side air bag module may be missing one or more metal tabs that secure the plastic air bag cover to the housing.",
+        "consequence": "The missing tabs may prevent the air bag from deploying properly, increasing the risk of injury in a crash.",
+        "remedy": "Dealers will inspect the driver frontal air bag, and replace it if necessary, free of charge.  Owner notification letters are expected to be mailed August 16, 2021.  Owners may contact Chevrolet custo",
+        "reportDate": "01/07/2021"
+      },
+      {
+        "campaign": "21V985000",
+        "component": "TIRES:TEMPORARY/EMERGENCY SPARE TIRE",
+        "summary": "General Motors (GM) is recalling certain 2019-2021 GMC Sierra 1500 and Silverado 1500 vehicles equipped with certain accessory road tires and a 17\" spare tire.  The 17\" spare tire provided with the vehicle is not compatible for use with the accessory wheels, which can cause the a",
+        "consequence": "An ABS system that does not function properly can increase the risk of a crash.",
+        "remedy": "Dealers will provide a new 17\" spare tire and wheel assembly that is compatible with the accessory wheels, free of charge.   Dealers will also apply a new spare tire information label, and provide own",
+        "reportDate": "16/12/2021"
+      },
+      {
+        "campaign": "24V797000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:CONTROL MODULE:SOFTWARE",
+        "summary": "General Motors, LLC (GM) is recalling certain 2020-2022 Chevrolet Silverado 1500, 2500, 3500, GMC Sierra 1500, 2500, 3500, 2021 Cadillac Escalade, Escalade ESV, Chevrolet Tahoe, Suburban, GMC Yukon, and Yukon XL vehicles equipped with diesel engines.  The transmission control val",
+        "consequence": "Rear wheel lock-up can increase the risk of a crash.",
+        "remedy": "Dealers will install new transmission control module software, free of charge.  GM will provide a special coverage program to cover the repair of transmissions that are identified by the remedy softwa",
+        "reportDate": "24/10/2024"
+      }
+    ],
+    "safety": {
+      "nveDescription": "2021 Chevrolet Silverado 1500 PU/CC 4WD",
+      "overall": 4,
+      "frontalCrash": 4,
+      "sideCrash": 5,
+      "rollover": 4
+    },
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Leimershof_US-Car-Treffen_2011_Chevrolet_Silverado_1500_Regular_Cab-20220911-RM-161738.jpg/960px-Leimershof_US-Car-Treffen_2011_Chevrolet_Silverado_1500_Regular_Cab-20220911-RM-161738.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Leimershof_US-Car-Treffen_2011_Chevrolet_Silverado_1500_Regular_Cab-20220911-RM-161738.jpg",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Leimershof_US-Car-Treffen_2011_Chevrolet_Silverado_1500_Regular_Cab-20220911-RM-161738.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Ermell",
+      "title": "File:Leimershof US-Car-Treffen 2011 Chevrolet Silverado 1500 Regular Cab-20220911-RM-161738.jpg",
+      "query": "Chevrolet Silverado 1500"
+    }
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Silverado 1500",
+    "year": 2019,
+    "trim": "LTZ",
+    "driveHint": "4WD",
+    "specs": {
+      "epaModel": "Silverado K10 4WD",
+      "epaId": "40425",
+      "engine": "6.2L 8-cyl",
+      "displacement": "6.2",
+      "cylinders": 8,
+      "transmission": "Automatic 10-spd",
+      "drive": "4-Wheel Drive",
+      "fuelType": "Premium Gasoline",
+      "mpgCity": 16,
+      "mpgHwy": 20,
+      "mpgComb": 17,
+      "vClass": "Standard Pickup Trucks 4WD",
+      "co2": 516
+    },
+    "recalls": [
+      {
+        "campaign": "21V115000",
+        "component": "TIRES",
+        "summary": "General Motors LLC (GM) is recalling certain 2020 Buick Enclave, Cadillac XT4, XT5, Escalade, Escalade ESV, Chevrolet Suburban, Tahoe, Traverse, GMC Yukon, Yukon XL, 2018-2021 Chevrolet Express, GMC Savana, 2019-2020 Chevrolet Blazer, Silverado 1500, GMC Acadia, Sierra 1500, and ",
+        "consequence": "Over cured tires may develop a break in the sidewall resulting in sudden air loss or a belt edge separation which could lead to a tread/belt loss.  Either condition can cause a loss of vehicle control",
+        "remedy": "GM will notify owners, and dealers will inspect the tires, replacing them as necessary, free of charge.  The recall began March 22, 2021.  Owners may contact GMC customer service at 1-888-988-7267, Bu",
+        "reportDate": "25/02/2021"
+      },
+      {
+        "campaign": "19V889000",
+        "component": "SERVICE BRAKES, HYDRAULIC:ANTILOCK/TRACTION CONTROL/ELECTRONIC LIMITED SLIP:ABS WARNING LIGHT",
+        "summary": "General Motors LLC (GM) is recalling certain 2019 Chevrolet Silverado 1500, Cadillac CT6, and GMC Sierra 1500 vehicles.  Due to an Electronic Brake Control Module (EBCM) software error, the vehicle's Electronic Stability Control (ESC) and Antilock Brake System (ABS) may become di",
+        "consequence": "If the driver operates the vehicle unaware that ESC and ABS are not functioning, there is an increased risk of a crash.",
+        "remedy": "GM will notify owners, and dealers will reprogram the EBCM, free of charge.  The recall began February 4, 2020.  Owners may contact Chevrolet customer service at 1-800-222-1020, Cadillac customer serv",
+        "reportDate": "12/12/2019"
+      },
+      {
+        "campaign": "19V888000",
+        "component": "ELECTRICAL SYSTEM:12V/24V/48V BATTERY:CABLES",
+        "summary": "General Motors LLC (GM) is recalling certain 2019-2020 Chevrolet Silverado 1500 and GMC Sierra 1500 trucks.  The battery positive (B+) cable rings may have been manufactured with excessive glue, potentially causing an intermittent electrical connection between the B+ cable and al",
+        "consequence": "An intermittent electrical connection between the B+ battery cable and the alternator could cause the vehicle to stall, increasing the risk of a crash.  The intermittent connection could also lead to ",
+        "remedy": "GM will notify owners, and dealers will inspect for the presence of glue or other contamination at the B+ cable attachment to the alternator and clean the connection and reattach the B+ cable connecti",
+        "reportDate": "12/12/2019"
+      },
+      {
+        "campaign": "20V792000",
+        "component": "SEAT BELTS",
+        "summary": "General Motors, LLC (GM) is recalling certain 2019-2021 Chevrolet Silverado 1500 and GMC Sierra 1500, 2021 Chevrolet Suburban and Tahoe and GMC Yukon XL and 2020-2021 Chevrolet Silverado 2500 and 3500 and GMC Sierra 2500 and 3500 vehicles.   The seat belt brackets may not be secu",
+        "consequence": "If a seat-belt bracket is not secured, the seat belt may not properly restrain an occupant in the front-row center seat position, increasing the risk of injury in a crash.",
+        "remedy": "GM will notify owners, and dealers will inspect left-side and right-side front-row center seat-belt bracket attachments and reassemble it correctly as necessary, free of charge.  The recall began Janu",
+        "reportDate": "17/12/2020"
+      },
+      {
+        "campaign": "20V055000",
+        "component": "SERVICE BRAKES, HYDRAULIC:POWER ASSIST",
+        "summary": "General Motors LLC (GM) is recalling certain 2019 Chevrolet Silverado 1500 and GMC Sierra 1500 vehicles.  These vehicles received updated software for the Electronic Brake Control Module (EBCM).  This software has an error, and as a result, the vehicle's electronic brake assist m",
+        "consequence": "A loss of electronic brake assist can increase the risk of a crash.",
+        "remedy": "GM will notify owners, and dealers will reprogram the EBCM, free of charge.  The recall began February 24, 2020. Owners may contact Chevrolet customer service at 1-800-222-1020 or GMC customer service",
+        "reportDate": "30/01/2020"
+      },
+      {
+        "campaign": "19V814000",
+        "component": "SEAT BELTS:PRETENSIONER",
+        "summary": "General Motors LLC (GM) is recalling certain 2019-2020 Chevrolet Silverado 1500 and GMC Sierra 1500, and 2020 Silverado 2500, Silverado 3500, Sierra 2500, and Sierra 3500 vehicles equipped with carpet floor covering.  When the front seat belt pretensioners deploy, hot gas may ven",
+        "consequence": "A vehicle fire could result if materials ignite inside the vehicle.",
+        "remedy": "GM will notify owners, and dealers will close off the opening in the pretensioner bracket, free of charge.  The recall began December 13, 2019.  Owners may contact Chevrolet customer service at 1-800-",
+        "reportDate": "14/11/2019"
+      }
+    ],
+    "safety": {
+      "nveDescription": "2019 Chevrolet Silverado 1500 PU/EC RWD",
+      "overall": 5,
+      "frontalCrash": 4,
+      "sideCrash": 5,
+      "rollover": 4
+    },
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/2019_Chevrolet_Silverado_1500_%C3%A0_4_portes.jpg/960px-2019_Chevrolet_Silverado_1500_%C3%A0_4_portes.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/2019_Chevrolet_Silverado_1500_%C3%A0_4_portes.jpg",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File:2019_Chevrolet_Silverado_1500_%C3%A0_4_portes.jpg",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "author": "Bull-Doser",
+      "title": "File:2019 Chevrolet Silverado 1500 à 4 portes.jpg",
+      "query": "2019 Chevrolet Silverado 1500"
+    }
+  },
+  {
+    "make": "Subaru",
+    "model": "Outback",
+    "year": 2020,
+    "trim": "Limited",
+    "driveHint": "AWD",
+    "specs": {
+      "epaModel": "Outback AWD",
+      "epaId": "41569",
+      "engine": "2.5L 4-cyl",
+      "displacement": "2.5",
+      "cylinders": 4,
+      "transmission": "Automatic (AV-S8)",
+      "drive": "All-Wheel Drive",
+      "fuelType": "Regular Gasoline",
+      "mpgCity": 26,
+      "mpgHwy": 33,
+      "mpgComb": 29,
+      "vClass": "Small Sport Utility Vehicle 4WD",
+      "co2": 308
+    },
+    "recalls": [
+      {
+        "campaign": "20V766000",
+        "component": "BACK OVER PREVENTION:DISPLAY FUNCTION",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2020 Legacy and Outback vehicles equipped with \"high\" grade and \"mid\" grade multimedia navigation.  The August 2020 over-the-air software update may have timed out without completing the installation, corrupting the data, and ",
+        "consequence": "The intermittent loss of the rearview image reduces the driver's visibility and increases the risk of crash.",
+        "remedy": "Subaru will notify owners, and dealers will reprogram the software and, if necessary, replace the Cockpit Control Module, free of charge.  The recall began January 22, 2021.  Owners may contact Subaru",
+        "reportDate": "10/12/2020"
+      },
+      {
+        "campaign": "21V955000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:CONTROL MODULE (TCM/PCM/TECM)",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2019-2020 Ascent, 2020 Legacy and Outback vehicles.  A programming error in the Transmission Control Unit (TCU) may allow the clutch to engage before the drive chain is completely clamped.",
+        "consequence": "An improperly secured drive chain may slip and break, causing a loss of drive power and increasing the risk of a crash.",
+        "remedy": "Dealers will reprogram the TCU, inspect TCU data for chain slip, and visually inspect the chain guide.  If evidence of chain slippage or damage is found, the transmission will be replaced.  Repairs wi",
+        "reportDate": "09/12/2021"
+      },
+      {
+        "campaign": "21V587000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2019-2020 Ascent, 2018 Forester, 2018-2020 Impreza, Legacy, Outback, 2018-2019 BRZ, WRX, and Toyota 86 vehicles.  The low-pressure fuel pump inside the fuel tank may fail.",
+        "consequence": "Fuel pump failure can cause an engine stall while driving, increasing the risk of a crash.",
+        "remedy": "Dealers will replace the low-pressure fuel pump, free of charge.  Owner notification letters were mailed September 24, 2021.  Subaru and Toyota owners may call customer service at 1-844-373-6614.  Sub",
+        "reportDate": "29/07/2021"
+      },
+      {
+        "campaign": "19V664000",
+        "component": "SERVICE BRAKES, HYDRAULIC:PEDALS AND LINKAGES",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2020 Outback and Legacy vehicles.  The brake pedal mounting bracket may have a missing or insufficiently tightened bolt.",
+        "consequence": "A missing or loose bolt may cause the brake pedal mounting area to deform over time, which can reduce braking performance and increase the risk of a crash.",
+        "remedy": "Subaru will notify owners, and dealers will inspect the brake pedal mounting bracket hardware and replace the hardware or brake pedal assembly, as necessary, free of charge.  The recall began October ",
+        "reportDate": "18/09/2019"
+      },
+      {
+        "campaign": "22V485000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:CONTROL MODULE (TCM/PCM/TECM)",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2020-2021 Outback and Legacy vehicles.  A programming error in the Transmission Control Unit (TCU) may allow the clutch to engage before the drive chain is completely clamped.",
+        "consequence": "An improperly secured drive chain may slip and break, causing a loss of drive power and increasing the risk of a crash.",
+        "remedy": "Dealers will reprogram the TCU, inspect TCU data for chain slip, and visually inspect the chain guide.  If evidence of chain slippage or damage is found, the transmission will be replaced. Repairs wil",
+        "reportDate": "08/07/2022"
+      },
+      {
+        "campaign": "24V227000",
+        "component": "AIR BAGS:SENSOR:OCCUPANT CLASSIFICATION:FRONT PASSENGER",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2020-2022 Outback and Legacy vehicles.  A capacitor in the sensors for the Occupant Detection System (ODS) may crack and short circuit, which can prevent the front passenger air bag from deploying in a crash.",
+        "consequence": "An air bag that does not deploy during a crash can increase the risk of injury.",
+        "remedy": "Dealers will replace the ODS sensors on the front passenger seat, free of charge.  Owner notifications were mailed February 3, 2025.  Owners may contact Subaru customer service at 1-844-373-6614.  Sub",
+        "reportDate": "22/03/2024"
+      }
+    ],
+    "safety": {
+      "nveDescription": "2020 Subaru Outback SUV AWD",
+      "overall": 5,
+      "frontalCrash": 5,
+      "sideCrash": 5,
+      "rollover": 4
+    },
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/2020_Subaru_Outback_AWD%2C_front.jpg/960px-2020_Subaru_Outback_AWD%2C_front.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/3/32/2020_Subaru_Outback_AWD%2C_front.jpg",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File:2020_Subaru_Outback_AWD,_front.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Kevauto",
+      "title": "File:2020 Subaru Outback AWD, front.jpg",
+      "query": "2020 Subaru Outback"
+    }
+  },
+  {
+    "make": "Subaru",
+    "model": "Outback",
+    "year": 2018,
+    "trim": "Premium",
+    "driveHint": "AWD",
+    "specs": {
+      "epaModel": "Outback AWD",
+      "epaId": "38857",
+      "engine": "3.6L 6-cyl",
+      "displacement": "3.6",
+      "cylinders": 6,
+      "transmission": "Automatic (AV-S6)",
+      "drive": "All-Wheel Drive",
+      "fuelType": "Regular Gasoline",
+      "mpgCity": 20,
+      "mpgHwy": 27,
+      "mpgComb": 22,
+      "vClass": "Small Sport Utility Vehicle 4WD",
+      "co2": 398
+    },
+    "recalls": [
+      {
+        "campaign": "18V935000",
+        "component": "VISIBILITY:REARVIEW MIRRORS/DEVICES",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2018 Legacy, Outback, and BRZ vehicles.  In the affected vehicles, a software issue may cause the audio display system to not initialize, resulting in the camera display remaining blank.  If this occurs, the rearview image wil",
+        "consequence": "Failure to display the rearview image while backing up increases the risk of crash.",
+        "remedy": "Subaru has notified owners, and dealers will reprogram the audio system display software, free of charge.  The recall began on February 5, 2019.  Owners may contact Subaru customer service at 1-844-37",
+        "reportDate": "31/12/2018"
+      },
+      {
+        "campaign": "18V773000",
+        "component": "ELECTRICAL SYSTEM:SOFTWARE",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2018 Subaru Legacy and Outback vehicles.  Due to a software error, the low fuel warning light may not illuminate at the intended remaining fuel level and the miles-to-empty display may incorrectly indicate a positive number de",
+        "consequence": "The inaccurate fuel display may cause a driver to unexpectedly run out of fuel and the vehicle to stall, increasing the risk of a crash.",
+        "remedy": "Subaru will notify owners, and dealers will reprogram the combination meter software, free of charge.  The recall began February 20, 2019.  Owners may contact Subaru customer service at 1-844-373-6614",
+        "reportDate": "01/11/2018"
+      },
+      {
+        "campaign": "21V587000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Subaru of America, Inc. (Subaru) is recalling certain 2019-2020 Ascent, 2018 Forester, 2018-2020 Impreza, Legacy, Outback, 2018-2019 BRZ, WRX, and Toyota 86 vehicles.  The low-pressure fuel pump inside the fuel tank may fail.",
+        "consequence": "Fuel pump failure can cause an engine stall while driving, increasing the risk of a crash.",
+        "remedy": "Dealers will replace the low-pressure fuel pump, free of charge.  Owner notification letters were mailed September 24, 2021.  Subaru and Toyota owners may call customer service at 1-844-373-6614.  Sub",
+        "reportDate": "29/07/2021"
+      }
+    ],
+    "safety": {
+      "nveDescription": "2018 Subaru Outback SW AWD",
+      "overall": 5,
+      "frontalCrash": 5,
+      "sideCrash": 5,
+      "rollover": 4
+    },
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/2018_Subaru_Outback_au_SIAM_2018.jpg/960px-2018_Subaru_Outback_au_SIAM_2018.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/9/91/2018_Subaru_Outback_au_SIAM_2018.jpg",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File:2018_Subaru_Outback_au_SIAM_2018.jpg",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "author": "Bull-Doser",
+      "title": "File:2018 Subaru Outback au SIAM 2018.jpg",
+      "query": "2018 Subaru Outback"
+    }
+  },
+  {
+    "make": "Honda",
+    "model": "CR-V",
+    "year": 2021,
+    "trim": "EX",
+    "driveHint": "AWD",
+    "specs": {
+      "epaModel": "CR-V AWD",
+      "epaId": "43475",
+      "engine": "1.5L 4-cyl",
+      "displacement": "1.5",
+      "cylinders": 4,
+      "transmission": "Automatic (variable gear ratios)",
+      "drive": "All-Wheel Drive",
+      "fuelType": "Regular Gasoline",
+      "mpgCity": 27,
+      "mpgHwy": 32,
+      "mpgComb": 29,
+      "vClass": "Small Sport Utility Vehicle 4WD",
+      "co2": 305
+    },
+    "recalls": [
+      {
+        "campaign": "21V900000",
+        "component": "SEAT BELTS:REAR/OTHER:RETRACTOR",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2021 Accord Sedan, Accord Hybrid, CR-V, Ridgeline, 2022 Insight and CR-V Hybrid vehicles.  The automatic locking retractor on the second-row center seat belt assembly may deactivate improperly, which can result in an unsecured",
+        "consequence": "An unsecured child restraint system can increase the risk of injury during a crash.",
+        "remedy": "Dealers will replace the second-row center seat belt assembly, free of charge.  Owner notification letters were mailed January 14, 2022.  Owners may contact Honda customer service at 1-888-234-2138.",
+        "reportDate": "18/11/2021"
+      },
+      {
+        "campaign": "24V064000",
+        "component": "AIR BAGS:SENSOR:OCCUPANT CLASSIFICATION:FRONT PASSENGER",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2020-2022 Pilot, Accord, Civic sedan, HR-V, Odyssey, 2020 Civic coupe, Fit, 2021-2022 Civic hatchback, 2021 Civic Type R, Insight, 2020-2021 CR-V, CR-V Hybrid, Passport, Ridgeline, Accord Hybrid, 2020 Acura MDX, 2022 Acura MDX",
+        "consequence": "An air bag that deploys unintentionally during a crash can increase the risk of injury.",
+        "remedy": "Dealers will replace the seat weight sensors, free of charge.  Owner notification letters were mailed March 28, 2024, October 18, 2024, and August 2025.  This is a phased recall.  Owners may contact H",
+        "reportDate": "01/02/2024"
+      },
+      {
+        "campaign": "23V858000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2013-2023 Honda Accord, Civic Coupe, Civic Sedan, Civic Hatchback, Civic Type R, CR-V, HR-V, Ridgeline, Odyssey, Acura ILX, MDX, MDX Hybrid, RDX, RLX, TLX, 2019-2022 Honda Insight, Passport, 2020 Honda CR-V Hybrid, 2018-2019 H",
+        "consequence": "Fuel pump failure can cause an engine stall while driving, increasing the risk of a crash.",
+        "remedy": "Dealers will replace the fuel pump module, free of charge.  Owner letters were mailed September 6, 2024.  Owners may contact Honda customer service at 1-888-234-2138.  Honda's numbers for this recall ",
+        "reportDate": "18/12/2023"
+      },
+      {
+        "campaign": "26V332000",
+        "component": "AIR BAGS:SENSOR:OCCUPANT CLASSIFICATION:FRONT PASSENGER",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2018-2021, 2023 Acura TLX, 2019-2024 RDX, 2017-2020, 2022-2026 MDX, 2017-2021, 2023, 2025 Honda Ridgeline, 2017-2022 Pilot, 2019-2021 Passport, 2018-2026 Odyssey, 2019-2022 Insight, 2019-2021 HR-V, 2018-2020 Fit, 2020-2022 CR-",
+        "consequence": "Air bags that deploy unintentionally during a crash increase the risk of injury.",
+        "remedy": "Dealers will replace the seat weight sensors, free of charge. Owner notification letters are expected to be mailed July 6, 2026. Owners may contact Honda's customer service at 1-888-234-2138. Honda's ",
+        "reportDate": "21/05/2026"
+      }
+    ],
+    "safety": {
+      "nveDescription": "2021 Honda CR-V SUV AWD",
+      "overall": 5,
+      "frontalCrash": 5,
+      "sideCrash": 5,
+      "rollover": 4
+    },
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Honda_CR-V_end_on_Zhongqing_Road_20210216a.jpg/960px-Honda_CR-V_end_on_Zhongqing_Road_20210216a.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/8/87/Honda_CR-V_end_on_Zhongqing_Road_20210216a.jpg",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Honda_CR-V_end_on_Zhongqing_Road_20210216a.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "WC-QHS",
+      "title": "File:Honda CR-V end on Zhongqing Road 20210216a.jpg",
+      "query": "2021 Honda CR-V"
+    }
+  },
+  {
+    "make": "Honda",
+    "model": "CR-V",
+    "year": 2019,
+    "trim": "LX",
+    "driveHint": "FWD",
+    "specs": {
+      "epaModel": "CR-V FWD",
+      "epaId": "40852",
+      "engine": "2.4L 4-cyl",
+      "displacement": "2.4",
+      "cylinders": 4,
+      "transmission": "Automatic (variable gear ratios)",
+      "drive": "Front-Wheel Drive",
+      "fuelType": "Regular Gasoline",
+      "mpgCity": 26,
+      "mpgHwy": 32,
+      "mpgComb": 28,
+      "vClass": "Small Sport Utility Vehicle 2WD",
+      "co2": 312
+    },
+    "recalls": [
+      {
+        "campaign": "19V865000",
+        "component": "STRUCTURE:FRAME AND MEMBERS",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2019-2020 CR-V vehicles.  The rear subframe bolts were improperly\r\nmanufactured and may loosen, allowing the rear subframe to separate.",
+        "consequence": "A separated rear subframe reduces vehicle handling and can suddenly disable the vehicle, increasing the risk of a crash.",
+        "remedy": "Honda will notify owners, and dealers will inspect the rear subframe bolts and retorque them or replace them, as necessary, free of charge.  The recall began January 27, 2020.  Owners may contact Hond",
+        "reportDate": "05/12/2019"
+      },
+      {
+        "campaign": "21V215000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2019-2020 Acura MDX, MDX Sport Hybrid, RDX, TLX, Honda Accord, Civic Hatchback, Insight, 2019 Acura ILX, Honda Accord Hybrid, Civic Coupe, Civic Coupe Si, Civic Sedan, Civic Sedan Si, Civic Type R, Fit, HR-V, Odyssey, Passport",
+        "consequence": "Fuel pump failure can cause an engine stall while driving, increasing the risk of a crash.",
+        "remedy": "Honda will notify owners, and dealers will replace the fuel pump assembly, free of charge.  Owner letters were mailed May 18, 2021.  Owners may contact Honda customer service at 1-888-234-2138.  Note:",
+        "reportDate": "25/03/2021"
+      },
+      {
+        "campaign": "19V569000",
+        "component": "FUEL SYSTEM, GASOLINE:STORAGE:TANK ASSEMBLY",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2019 CR-V vehicles. The joint weld between the fuel tank and the vapor return line may have been insufficiently welded, causing the weld to fail.",
+        "consequence": "The failed weld may allow fuel to leak, increasing the risk of a fire in the presence of an ignition source.",
+        "remedy": "Honda will notify owners, and dealers will replace the fuel tank, free of charge.  The recall began September 16, 2019.  Owners may contact Honda customer service at 1-888-234-2138.  Honda's number fo",
+        "reportDate": "01/08/2019"
+      },
+      {
+        "campaign": "19V694000",
+        "component": "EQUIPMENT:OTHER:OWNERS/SERVICE/OTHER MANUAL",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2019 CR-V vehicles.  The owner's guide incorrectly describes when the \"Passenger Airbag Off\" indicator should illuminate.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard (",
+        "consequence": "If the front passenger does not correctly understand how the airbag functions, they may be at an increased risk of personal injury in the event of a crash.",
+        "remedy": "Honda will notify owners and provide a sticker with the correct information to be added to the owner's guide, free of charge.  The recall began November 14, 2019.  Owner's may contact Honda customer s",
+        "reportDate": "26/09/2019"
+      },
+      {
+        "campaign": "19V383000",
+        "component": "AIR BAGS:FRONTAL:DRIVER CLOCKSPRING/SPIRAL CASSETTE",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2019 CR-V vehicles.  The metal core of the steering wheel may have burrs which can damage the harnesses routed within, potentially disabling the driver's air bag or causing it to deploy without warning.",
+        "consequence": "In the event of a crash, a disabled air bag would increase the risk of injury.  An uncommanded deployment of the driver's air bag also increases the risk of injury and a crash.",
+        "remedy": "Honda will notify owners, and dealers will install a protective cover on the steering wheel core and replace clockspring and the harnesses within, free of charge.  The recall began July 8, 2019.  Owne",
+        "reportDate": "21/05/2019"
+      },
+      {
+        "campaign": "23V158000",
+        "component": "SEAT BELTS:FRONT:BUCKLE ASSEMBLY",
+        "summary": "Honda (American Honda Motor Co.) is recalling certain 2017-2020 CR-V, 2018-2019 Accord and Accord Hybrid, 2018-2020 Odyssey, 2019 Insight, and 2019-2020 Acura RDX vehicles.  A manufacturing issue with the front seat belts may cause the seat belt buckle channel to interfere with t",
+        "consequence": "An unlatched seat belt cannot properly restrain the seat occupant during a crash, increasing their risk of injury.",
+        "remedy": "Dealers will replace the driver and front passenger seat belt buckle release buttons or the buckle assemblies as necessary, free of charge.  Owner notification letters were mailed April 18, 2023.  Own",
+        "reportDate": "09/03/2023"
+      }
+    ],
+    "safety": {
+      "nveDescription": "2019 Honda CR-V SUV AWD",
+      "overall": 5,
+      "frontalCrash": 5,
+      "sideCrash": 5,
+      "rollover": 4
+    },
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Honda_CR-V%2C_GIMS_2019%2C_Le_Grand-Saconnex_%28GIMS0705%29.jpg/960px-Honda_CR-V%2C_GIMS_2019%2C_Le_Grand-Saconnex_%28GIMS0705%29.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Honda_CR-V%2C_GIMS_2019%2C_Le_Grand-Saconnex_%28GIMS0705%29.jpg",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Honda_CR-V,_GIMS_2019,_Le_Grand-Saconnex_(GIMS0705).jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Matti Blume",
+      "title": "File:Honda CR-V, GIMS 2019, Le Grand-Saconnex (GIMS0705).jpg",
+      "query": "2019 Honda CR-V"
+    }
+  },
+  {
+    "make": "Toyota",
+    "model": "Camry",
+    "year": 2021,
+    "trim": "XSE",
+    "driveHint": "FWD",
+    "specs": {
+      "epaModel": "Camry",
+      "epaId": "43302",
+      "engine": "3.5L 6-cyl",
+      "displacement": "3.5",
+      "cylinders": 6,
+      "transmission": "Automatic (S8)",
+      "drive": "Front-Wheel Drive",
+      "fuelType": "Regular Gasoline",
+      "mpgCity": 22,
+      "mpgHwy": 33,
+      "mpgComb": 26,
+      "vClass": "Midsize Cars",
+      "co2": 338
+    },
+    "recalls": [
+      {
+        "campaign": "23V865000",
+        "component": "AIR BAGS:SENSOR:OCCUPANT CLASSIFICATION",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2020-2021 Avalon, Avalon Hybrid, Corolla, Highlander, Highlander Hybrid, RAV4, RAV4 Hybrid, Lexus ES350, Lexus RX350, Lexus RX450H, 2021 Sienna Hybrid, Lexus ES250, 2020-2022 Camry, Camry Hybrid, and ES300H ve",
+        "consequence": "An air bag that does not deploy during a crash increases the risk of injury.",
+        "remedy": "Dealers will inspect and replace the sensor as necessary, free of charge.  Interim letters notifying owners of the safety risk were mailed in February 2024. Some final remedy owner letters were mailed",
+        "reportDate": "20/12/2023"
+      }
+    ],
+    "safety": {
+      "nveDescription": "2021 Toyota CAMRY 4 DR AWD",
+      "overall": 5,
+      "frontalCrash": 5,
+      "sideCrash": 5,
+      "rollover": 5
+    },
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Toyota_Camry_%28XV70%29_IMG_9081.jpg/960px-Toyota_Camry_%28XV70%29_IMG_9081.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Toyota_Camry_%28XV70%29_IMG_9081.jpg",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Toyota_Camry_(XV70)_IMG_9081.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Alexander-93",
+      "title": "File:Toyota Camry (XV70) IMG 9081.jpg",
+      "query": "2021 Toyota Camry"
+    }
+  },
+  {
+    "make": "Toyota",
+    "model": "Camry",
+    "year": 2019,
+    "trim": "SE",
+    "driveHint": "FWD",
+    "specs": {
+      "epaModel": "Camry",
+      "epaId": "40606",
+      "engine": "3.5L 6-cyl",
+      "displacement": "3.5",
+      "cylinders": 6,
+      "transmission": "Automatic (S8)",
+      "drive": "Front-Wheel Drive",
+      "fuelType": "Regular Gasoline",
+      "mpgCity": 22,
+      "mpgHwy": 33,
+      "mpgComb": 26,
+      "vClass": "Midsize Cars",
+      "co2": 338
+    },
+    "recalls": [
+      {
+        "campaign": "20V682000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2018-2019 4Runner, 2019-2020 Avalon, 2019 Corolla Hatchback, 2017-2019 Highlander, 2018-2020 Camry, 2020 Corolla, 2018-2019 Land Cruiser, 2017-2020 Tacoma, 2019-2020 RAV4, 2019-2020 Sequoia, 2017-2020 Sienna, ",
+        "consequence": "If the fuel pump fails, the engine can stall while driving, increasing the risk of a crash.",
+        "remedy": "Toyota will notify owners, and dealers will replace the fuel pump assembly with an improved one, free of charge.  Owners of specific models were notified that remedy parts were available starting Janu",
+        "reportDate": "04/11/2020"
+      },
+      {
+        "campaign": "21V890000",
+        "component": "SERVICE BRAKES, HYDRAULIC:POWER ASSIST:VACUUM",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2018-2019 Camry vehicles.  The vane cap inside the vacuum pump may break, causing the pump to fail, which could result in a sudden loss of braking assist.",
+        "consequence": "A sudden loss of braking assist can increase the risk of a crash.",
+        "remedy": "Dealers will repair or replace the vacuum pump, as necessary, free of charge.  Owner notification letters were mailed May 16, 2022.  Owners may contact Toyota customer service at 1-800-331-4331.",
+        "reportDate": "17/11/2021"
+      },
+      {
+        "campaign": "20V012000",
+        "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) recalled certain 2018-2019 4Runner, Highlander, Camry, Land Cruiser, Sequoia, Sienna, Tacoma and Tundra, and Lexus RC 300, RC 350, GS 350, GX 460, IS 300, LC 500, LS 500, LX 570, RX 350L, and 2019 Toyota Avalon and Corolla, and ce",
+        "consequence": "If the fuel pump fails, the engine can stall while driving, increasing the risk of a crash.",
+        "remedy": "Toyota will notify owners, and dealers will replace the fuel pump, free of charge.  The recall began May 4, 2020.  Owners may contact Toyota customer service at 1-888-270-9371 or Lexus customer servic",
+        "reportDate": "13/01/2020"
+      },
+      {
+        "campaign": "19V503000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "Southeast Toyota Distributors, LLC (SET) is recalling certain 2017-2019 Toyota Camry, Corolla, Rav4, Sienna, and Yaris iA vehicles equipped with factory-installed floor mats.  The load carrying capacity modification label may be incorrect.  As such, these vehicles fail to comply ",
+        "consequence": "An incorrect label may lead to unintentionally overloading the vehicle, increasing the risk of a crash.",
+        "remedy": "SET will notify owners and provide a corrected label for placement over the inaccurate label, free of charge.  The recall began August 23, 2019.  Owners may contact Toyota customer service at 1-888-27",
+        "reportDate": "28/06/2019"
+      },
+      {
+        "campaign": "19V567000",
+        "component": "AIR BAGS:SENSOR:OCCUPANT CLASSIFICATION",
+        "summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2019 Camry vehicles. The Occupant Classification System (OCS) may have been improperly calibrated, which may prevent the proper deployment of the front passenger air bag and knee air bag, in the event of a cra",
+        "consequence": "In the event of a crash, if the air bags do not deploy as designed, the front seat passenger has an increased risk of an injury.",
+        "remedy": "Toyota will notify owners, and dealers will recalibrate the OCS, free of charge.  The recall began August 27, 2019.  Owners may contact Toyota customer service at 1-888-270-9371.  Toyota's number for ",
+        "reportDate": "01/08/2019"
+      },
+      {
+        "campaign": "19V244000",
+        "component": "EQUIPMENT:OTHER:LABELS",
+        "summary": "Gulf States Toyota (GST) is recalling certain 2019 C-HR, 4Runner, Avalon, Avalon Hybrid, Camry, Camry Hybrid, Highlander, Land Cruiser, Prius, RAV4, Sequoia, Tacoma, Sienna, Tundra and Yaris vehicles.  The text on the load capacity label may become illegible.  As such, these vehi",
+        "consequence": "If the driver cannot read the label, they may unknowingly overload the vehicle, increasing the risk of a crash.",
+        "remedy": "GST will notify owners, and dealers will provide corrected load carrying capacity modification labels, free of charge.  The recall began May 24, 2019.  Owners may contact GST customer service at 1-800",
+        "reportDate": "27/03/2019"
+      }
+    ],
+    "safety": {
+      "nveDescription": "2019 Toyota Camry 4 DR FWD",
+      "overall": 5,
+      "frontalCrash": 5,
+      "sideCrash": 5,
+      "rollover": 5
+    },
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/2019_Toyota_Camry_LE.jpg/960px-2019_Toyota_Camry_LE.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/1/15/2019_Toyota_Camry_LE.jpg",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File:2019_Toyota_Camry_LE.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Kevauto",
+      "title": "File:2019 Toyota Camry LE.jpg",
+      "query": "2019 Toyota Camry"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Mustang",
+    "year": 2020,
+    "trim": "GT",
+    "driveHint": "RWD",
+    "specs": {
+      "epaModel": "Mustang",
+      "epaId": "41952",
+      "engine": "2.3L 4-cyl",
+      "displacement": "2.3",
+      "cylinders": 4,
+      "transmission": "Automatic (S10)",
+      "drive": "Rear-Wheel Drive",
+      "fuelType": "Regular Gasoline",
+      "mpgCity": 21,
+      "mpgHwy": 32,
+      "mpgComb": 25,
+      "vClass": "Subcompact Cars",
+      "co2": 354
+    },
+    "recalls": [
+      {
+        "campaign": "20V306000",
+        "component": "FORWARD COLLISION AVOIDANCE: SENSING SYSTEM: CAMERA",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2020 Mustang vehicles equipped a forward-looking camera.  The camera may be misaligned to the vehicle and features that are dependent on the camera such as Pre-Collision Assist, Adaptive Cruise Control, Lane Keeping System, Driver Al",
+        "consequence": "If the driver is unaware that the Pre-Collision Assist feature is not operating effectively, they may rely on a system that is not functional, increasing the risk of a crash or injury.",
+        "remedy": "Ford will notify owners, and dealers will perform the Lane Departure Warning System camera alignment procedure, free of charge.  This recall began June 17, 2020.  Owners may contact Ford customer serv",
+        "reportDate": "27/05/2020"
+      },
+      {
+        "campaign": "20V573000",
+        "component": "SERVICE BRAKES, HYDRAULIC:PEDALS AND LINKAGES",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2020 Mustang vehicles equipped with automatic transmissions.  The brake pedal bracket may fracture during sudden stopping.",
+        "consequence": "A broken brake pedal could affect braking ability, increasing the risk of a crash.",
+        "remedy": "Ford will notify owners, and dealers will replace the brake pedal bracket assembly, free of charge.  The recall began January 26, 2021.  Owners may contact Ford customer service at 1-866-436-7332.  Fo",
+        "reportDate": "23/09/2020"
+      },
+      {
+        "campaign": "20V263000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:GEAR POSITION INDICATION (PRNDL)",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2019 Expedition and 2019-2020 Mustang vehicles.  The \"Transmission Not In Park\" warning message and associated chime duration are shorter than intended.",
+        "consequence": "If the driver exits the vehicle without the transmission being shifted into park, unintended vehicle movement may result, increasing the risk of injury or crash.",
+        "remedy": "Ford will notify owners, and dealers will reprogram the instrument cluster, free of charge.  The recall began May 26, 2020.  Owners may contact Ford customer service at 1-866-436-7332.  Ford's number ",
+        "reportDate": "08/05/2020"
+      },
+      {
+        "campaign": "20V575000",
+        "component": "BACK OVER PREVENTION: SENSING SYSTEM: CAMERA",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2020 Ford F-150, F-250, F-350, F-450, F-550, Explorer, Mustang, Transit, Expedition, Escape, Ranger and Edge, and Lincoln Nautilus and Corsair vehicles.  Due to a poor electrical connection, the rearview camera may intermittently dis",
+        "consequence": "Reduced rearward visibility can increase the risk of a crash.",
+        "remedy": "Ford will notify owners, and dealers will replace the rearview camera, free of charge.  The recall began November 17, 2020.  Remedy became available on February 1, 2021.  Owner notification letters we",
+        "reportDate": "23/09/2020"
+      },
+      {
+        "campaign": "22V382000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:CONTROL MODULE (TCM/PCM/TECM)",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2019-2020 Mustang vehicles equipped with 5.0L engines and manual transmissions.  The Powertrain Control Module (PCM) may broadcast an unintended faulted signal to the modules controlling the reverse camera, reverse light, and driver ",
+        "consequence": "A rearview camera or reverse light that is disabled reduces the driver's rear view, increasing the risk of a crash.  Disabled driver assist features (traction control, forward collision warning, blind",
+        "remedy": "Dealers will update the PCM software, free of charge.  Owner notification letters were mailed June 15, 2022.  Owners may contact Ford customer service at 1-866-436-7332.  Ford's number for this recall",
+        "reportDate": "27/05/2022"
+      },
+      {
+        "campaign": "23V727000",
+        "component": "ELECTRICAL SYSTEM:BODY CONTROL MODULE/BCM",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2020-2023 Mustang vehicles.  The brake fluid level sensor may not activate the visual warning indicator when the brake fluid is low.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standa",
+        "consequence": "Without a low brake fluid warning light, the vehicle may be driven with low brake fluid, reducing braking performance and increasing the risk of a crash.",
+        "remedy": "Dealers will update the body control module software, free of charge.  Owner notification letters were mailed December 21, 2023.  Owners may contact Ford customer service at 1-866-436-7332.  Ford's nu",
+        "reportDate": "27/10/2023"
+      }
+    ],
+    "safety": {
+      "nveDescription": "2020 Ford Mustang C RWD",
+      "overall": null,
+      "frontalCrash": null,
+      "sideCrash": null,
+      "rollover": 5
+    },
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/2020_Ford_Mustang_GT.jpg/960px-2020_Ford_Mustang_GT.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/2020_Ford_Mustang_GT.jpg",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File:2020_Ford_Mustang_GT.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Calreyn88",
+      "title": "File:2020 Ford Mustang GT.jpg",
+      "query": "2020 Ford Mustang"
+    }
+  },
+  {
+    "make": "Ford",
+    "model": "Mustang",
+    "year": 2018,
+    "trim": "EcoBoost",
+    "driveHint": "RWD",
+    "specs": {
+      "epaModel": "Mustang",
+      "epaId": "39648",
+      "engine": "2.3L 4-cyl",
+      "displacement": "2.3",
+      "cylinders": 4,
+      "transmission": "Automatic (S10)",
+      "drive": "Rear-Wheel Drive",
+      "fuelType": "Regular Gasoline",
+      "mpgCity": 21,
+      "mpgHwy": 32,
+      "mpgComb": 25,
+      "vClass": "Subcompact Cars",
+      "co2": 353
+    },
+    "recalls": [
+      {
+        "campaign": "18E035000",
+        "component": "ENGINE AND ENGINE COOLING:ENGINE:GASOLINE:TURBO/SUPERCHARGER",
+        "summary": "Roush Performance Products, Inc. (Roush) is recalling certain aftermarket supercharger kits, part number R1318-6006P1-AA, sold for installation on 2018 Ford Mustangs.  The hose barb fittings on the supercharger kits may be manufactured incorrectly, possibly causing damage to the ",
+        "consequence": "A fuel leak can increase the risk of a fire.",
+        "remedy": "Roush will notify the known owners and replace the defective fuel rail subassemblies, free of charge. The recall began on May 31, 2018. Owners may contact Roush customer service at 1-800-597-6874.  Ro",
+        "reportDate": "24/05/2018"
+      },
+      {
+        "campaign": "17V814000",
+        "component": "ELECTRICAL SYSTEM:SOFTWARE",
+        "summary": "Ford Motor Company is recalling certain 2018 Ford Mustang vehicles equipped with an automatic transmission and a 12.4\" digital instrument cluster.  If the ignition is turned off when the transmission is not in PARK, the instrument cluster may not illuminate the PRNDL gear positio",
+        "consequence": "Without a visual or audible warning to the driver that the vehicle is in PARK, the vehicle may roll away after it has been exited if the parking brake has not been applied, increasing the risk of inju",
+        "remedy": "Ford will notify owners, and dealers will update the instrument cluster software, as necessary, free of charge.  The recall is expected to begin February 5, 2018.  Owners may contact Ford customer ser",
+        "reportDate": "18/12/2017"
+      },
+      {
+        "campaign": "18V213000",
+        "component": "POWER TRAIN:AUTOMATIC TRANSMISSION",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2017-2018 Ford F-150 and 2018 Ford Expedition and Mustang and Lincoln Navigator vehicles equipped with 10-speed automatic transmissions.  A roll pin may not have been installed in the transmission, potentially causing a loss of the \"",
+        "consequence": "Despite the transmission shift lever being placed in 'Park' and the instrument panel display indicating 'Park,' the vehicle may roll away after it has been exited if the parking brake has not been app",
+        "remedy": "Ford will notify owners, and dealers will inspect the transmission to make sure it has the roll pin, installing one if it is missing, free of charge.  The recall began on April 13, 2018.  Owners may c",
+        "reportDate": "04/04/2018"
+      },
+      {
+        "campaign": "25V572000",
+        "component": "BACK OVER PREVENTION: SENSING SYSTEM: CAMERA",
+        "summary": "Ford Motor Company (Ford) is recalling certain 2015-2019 Lincoln MKC, Mustang, F-350 SD, F-250 SD, F-450 SD, 2015-2017 Lincoln Navigator, Expedition, 2015-2018 Edge, Transit Connect, 2016-2019 F-550 SD, Transit, 2017-2019 Econoline, and 2019 Ranger vehicles. The rearview camera m",
+        "consequence": "A rearview camera that displays an inverted, distorted, or blank image can reduce the driver’s view behind the vehicle, increasing the risk of a crash.",
+        "remedy": "Dealers will inspect and replace the rearview camera as necessary, free of charge. Owner notification letters were mailed January 13, 2026.  Ford owners will receive letters in phases, beginning Janua",
+        "reportDate": "04/09/2025"
+      }
+    ],
+    "safety": {
+      "nveDescription": "2018 Ford Mustang C RWD",
+      "overall": null,
+      "frontalCrash": null,
+      "sideCrash": null,
+      "rollover": 5
+    },
+    "image": {
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/2018_Ford_Mustang_GT_5.0_Rear.jpg/960px-2018_Ford_Mustang_GT_5.0_Rear.jpg",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b5/2018_Ford_Mustang_GT_5.0_Rear.jpg",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File:2018_Ford_Mustang_GT_5.0_Rear.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Vauxford",
+      "title": "File:2018 Ford Mustang GT 5.0 Rear.jpg",
+      "query": "2018 Ford Mustang"
+    }
+  }
+]

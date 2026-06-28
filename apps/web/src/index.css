@@ -1,0 +1,140 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-display: "Plus Jakarta Sans", ui-sans-serif, system-ui, sans-serif;
+
+  --color-brand-50: #eef6ff;
+  --color-brand-100: #d9ebff;
+  --color-brand-200: #bcdcff;
+  --color-brand-300: #8ec6ff;
+  --color-brand-400: #59a6ff;
+  --color-brand-500: #3385fc;
+  --color-brand-600: #1c66f1;
+  --color-brand-700: #1851dd;
+  --color-brand-800: #1a43b3;
+  --color-brand-900: #1b3c8d;
+  --color-brand-950: #142657;
+
+  --color-ink-50: #f6f7f9;
+  --color-ink-100: #eceef2;
+  --color-ink-200: #d4d9e2;
+  --color-ink-300: #aeb7c7;
+  --color-ink-400: #818ea6;
+  --color-ink-500: #62708b;
+  --color-ink-600: #4d5972;
+  --color-ink-700: #40495d;
+  --color-ink-800: #383f4f;
+  --color-ink-900: #1d2230;
+  --color-ink-950: #12151f;
+}
+
+html { scroll-behavior: smooth; }
+
+body {
+  font-family: var(--font-sans);
+  background: #fafbfc;
+  color: var(--color-ink-900);
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+.font-display { font-family: var(--font-display); }
+
+.card {
+  background: #fff;
+  border: 1px solid var(--color-ink-100);
+  border-radius: 1rem;
+  box-shadow: 0 1px 2px rgba(16, 24, 40, 0.04), 0 8px 24px -16px rgba(16, 24, 40, 0.12);
+}
+
+.hero-mesh {
+  background:
+    radial-gradient(900px 400px at 12% -10%, rgba(51, 133, 252, 0.20), transparent 60%),
+    radial-gradient(700px 500px at 95% 0%, rgba(28, 102, 241, 0.18), transparent 55%),
+    linear-gradient(180deg, #0c1733 0%, #142657 55%, #16306e 100%);
+}
+
+.locked-blur {
+  filter: blur(7px);
+  user-select: none;
+  pointer-events: none;
+}
+
+.no-scrollbar::-webkit-scrollbar { display: none; }
+.no-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
+
+/* Dual-thumb range slider: two range inputs overlaid on one track. The inputs
+   themselves ignore pointer events; only the thumbs are interactive, so both
+   handles share one bar and can be dragged independently. */
+.range-dual {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 1.25rem;
+  margin: 0;
+  background: transparent;
+  -webkit-appearance: none;
+  appearance: none;
+  pointer-events: none;
+}
+.range-dual::-webkit-slider-runnable-track { background: transparent; border: none; }
+.range-dual::-moz-range-track { background: transparent; border: none; }
+.range-dual::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  pointer-events: auto;
+  height: 1.1rem;
+  width: 1.1rem;
+  border-radius: 9999px;
+  background: #fff;
+  border: 2px solid var(--color-brand-600);
+  box-shadow: 0 1px 3px rgba(16, 24, 40, 0.25);
+  cursor: pointer;
+}
+.range-dual::-moz-range-thumb {
+  pointer-events: auto;
+  height: 1.1rem;
+  width: 1.1rem;
+  border-radius: 9999px;
+  background: #fff;
+  border: 2px solid var(--color-brand-600);
+  box-shadow: 0 1px 3px rgba(16, 24, 40, 0.25);
+  cursor: pointer;
+}
+
+/* ----- status pills (shared Badge): vibrant, legible tints ----- */
+.badge { display: inline-flex; align-items: center; gap: .375rem; border-radius: 9999px; padding: .1875rem .625rem; font-size: .75rem; font-weight: 600; line-height: 1rem; white-space: nowrap; }
+.badge-dot { width: .4rem; height: .4rem; border-radius: 9999px; background: currentColor; flex: none; }
+.badge-green  { background: #dcfce7; color: #15803d; }
+.badge-brand  { background: #ccfbf1; color: #0f766e; }
+.badge-blue   { background: #dbeafe; color: #1d4ed8; }
+.badge-indigo { background: #e0e7ff; color: #4338ca; }
+.badge-amber  { background: #fef3c7; color: #b45309; }
+.badge-rose   { background: #ffe4e6; color: #be123c; }
+.badge-gray   { background: #e8ebf0; color: #4b5563; }
+.badge-solid  { background: #059669; color: #fff; }
+
+/* Custom select chevron — gives a comfortable gap between the arrow and the border
+   (the native arrow sits jammed against the edge). */
+.field-select {
+  -webkit-appearance: none;
+  appearance: none;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 24 24' fill='none' stroke='%2362708b' stroke-width='2.5' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='m6 9 6 6 6-6'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right 0.85rem center;
+  background-size: 1rem;
+  padding-right: 2.5rem;
+}
+
+@keyframes floaty {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-6px); }
+}
+.animate-floaty { animation: floaty 6s ease-in-out infinite; }
+
+@media (prefers-reduced-motion: reduce) {
+  .animate-floaty { animation: none; }
+  html { scroll-behavior: auto; }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "@vinsight/shared",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Reusable data, UI primitives, and helpers shared across the public site and the dashboard app.",
+  "type": "module",
+  "main": "src/index.js",
+  "exports": {
+    ".": "./src/index.js",
+    "./data": "./src/data/index.js",
+    "./ui": "./src/ui/index.js",
+    "./lib": "./src/lib/index.js"
+  },
+  "peerDependencies": {
+    "lucide-react": ">=0.4",
+    "react": ">=18",
+    "react-dom": ">=18"
+  }
+}

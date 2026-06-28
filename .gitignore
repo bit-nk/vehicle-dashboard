@@ -1,0 +1,47 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.*
+
+# Build output
+dist/
+build/
+*.tsbuildinfo
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# Environment / secrets
+.env
+.env.*
+*.local
+
+# Editor / OS junk
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+
+# Local tooling config (not part of the app)
+.claude/
+
+# Screenshots / scratch images at repo root (not app assets)
+/Screenshot*.png
+/screenshot*.png
+/Screen Shot*.png
+
+# Markdown docs are not tracked for now — keep only the user-facing ones
+*.md
+!README.md
+!CHANGELOG.md
+!MEMORY.md
+!SECURITY.md

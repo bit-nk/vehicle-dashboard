@@ -1,0 +1,142 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-display: "Plus Jakarta Sans", ui-sans-serif, system-ui, sans-serif;
+
+  /* Teal accent (matching the reference dashboard). Per-dealership accents
+     override --color-brand-* on the layout root at runtime. */
+  --color-brand-50: #f0fdfa;
+  --color-brand-100: #ccfbf1;
+  --color-brand-200: #99f6e4;
+  --color-brand-300: #5eead4;
+  --color-brand-400: #2dd4bf;
+  --color-brand-500: #14b8a6;
+  --color-brand-600: #0d9488;
+  --color-brand-700: #0f766e;
+  --color-brand-800: #115e59;
+  --color-brand-900: #134e4a;
+  --color-brand-950: #042f2e;
+
+  --color-ink-50: #f6f7f9;
+  --color-ink-100: #eceef2;
+  --color-ink-200: #d4d9e2;
+  --color-ink-300: #aeb7c7;
+  --color-ink-400: #818ea6;
+  --color-ink-500: #62708b;
+  --color-ink-600: #4d5972;
+  --color-ink-700: #40495d;
+  --color-ink-800: #383f4f;
+  --color-ink-900: #1d2230;
+  --color-ink-950: #12151f;
+}
+
+/* ---- semantic surfaces + light/dark theming (toggle in Settings) ---- */
+:root { --app-bg: #f4f6fa; --surface: #ffffff; --surface-2: #f6f7f9; }
+[data-theme="dark"] {
+  --app-bg: #0a1120;
+  --surface: #111a2e;
+  --surface-2: #18233c;
+  /* invert the ink scale so text-ink-900 reads light and bg/border-ink-* go dark */
+  --color-ink-50: #16203a;
+  --color-ink-100: #1f2a45;
+  --color-ink-200: #2c3a5c;
+  --color-ink-300: #3d4f74;
+  --color-ink-400: #8493b5;
+  --color-ink-500: #a3b2d2;
+  --color-ink-600: #c2cde6;
+  --color-ink-700: #d8e0f0;
+  --color-ink-800: #e8edf7;
+  --color-ink-900: #f4f7fc;
+  --color-ink-950: #ffffff;
+}
+
+html { scroll-behavior: smooth; }
+body {
+  font-family: var(--font-sans);
+  background: var(--app-bg);
+  color: var(--color-ink-900);
+  -webkit-font-smoothing: antialiased;
+}
+.font-display { font-family: var(--font-display); }
+
+.card {
+  background: var(--surface);
+  border: 1px solid var(--color-ink-100);
+  border-radius: 1rem;
+  box-shadow: 0 1px 2px rgba(16, 24, 40, 0.04), 0 8px 24px -16px rgba(16, 24, 40, 0.12);
+}
+[data-theme="dark"] .card { box-shadow: 0 1px 2px rgba(0, 0, 0, 0.3), 0 8px 24px -16px rgba(0, 0, 0, 0.5); }
+
+.auth-mesh {
+  background:
+    radial-gradient(900px 400px at 12% -10%, rgba(51, 133, 252, 0.22), transparent 60%),
+    radial-gradient(700px 500px at 95% 0%, rgba(28, 102, 241, 0.20), transparent 55%),
+    linear-gradient(180deg, #0c1733 0%, #142657 55%, #16306e 100%);
+}
+
+.field-select {
+  -webkit-appearance: none;
+  appearance: none;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 24 24' fill='none' stroke='%2362708b' stroke-width='2.5' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='m6 9 6 6 6-6'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right 0.85rem center;
+  background-size: 1rem;
+  padding-right: 2.5rem;
+}
+
+/* ----- minimalist button size conventions (use across drawers/modals/forms) ----- */
+.btn { display: inline-flex; align-items: center; justify-content: center; gap: .4rem;
+  border-radius: .5rem; font-weight: 600; font-size: .8125rem; padding: .5rem .9rem; line-height: 1.1rem; transition: .15s; }
+.btn-sm { padding: .375rem .7rem; font-size: .8125rem; border-radius: .5rem; font-weight: 600; }
+.btn-icon { width: 2rem; height: 2rem; padding: 0; border-radius: .5rem; display: grid; place-items: center; }
+
+/* ----- dual-thumb range slider (advanced inventory filters) ----- */
+.range-dual { position: absolute; top: 0; left: 0; width: 100%; height: 1.25rem; margin: 0; background: transparent; -webkit-appearance: none; appearance: none; pointer-events: none; }
+.range-dual::-webkit-slider-runnable-track { background: transparent; border: none; }
+.range-dual::-moz-range-track { background: transparent; border: none; }
+.range-dual::-webkit-slider-thumb { -webkit-appearance: none; appearance: none; pointer-events: auto; height: 1.1rem; width: 1.1rem; border-radius: 9999px; background: #fff; border: 2px solid var(--color-brand-600); box-shadow: 0 1px 3px rgba(16, 24, 40, 0.25); cursor: pointer; }
+.range-dual::-moz-range-thumb { pointer-events: auto; height: 1.1rem; width: 1.1rem; border-radius: 9999px; background: #fff; border: 2px solid var(--color-brand-600); box-shadow: 0 1px 3px rgba(16, 24, 40, 0.25); cursor: pointer; }
+
+/* native date/time picker icon: make it visible (light) in dark mode */
+[data-theme="dark"] input[type="date"], [data-theme="dark"] input[type="time"], [data-theme="dark"] input[type="datetime-local"] { color-scheme: dark; }
+
+/* ----- status pills (Badge + StatusPill): vibrant tints that read well in light AND dark ----- */
+.badge { display: inline-flex; align-items: center; gap: .375rem; border-radius: 9999px; padding: .1875rem .625rem; font-size: .75rem; font-weight: 600; line-height: 1rem; white-space: nowrap; }
+.badge-dot { width: .4rem; height: .4rem; border-radius: 9999px; background: currentColor; flex: none; }
+.badge-green  { background: #dcfce7; color: #15803d; }
+.badge-brand  { background: #ccfbf1; color: #0f766e; }
+.badge-blue   { background: #dbeafe; color: #1d4ed8; }
+.badge-indigo { background: #e0e7ff; color: #4338ca; }
+.badge-amber  { background: #fef3c7; color: #b45309; }
+.badge-rose   { background: #ffe4e6; color: #be123c; }
+.badge-gray   { background: #e8ebf0; color: #4b5563; }
+.badge-solid  { background: #059669; color: #fff; }
+[data-theme="dark"] .badge-green  { background: rgba(16,185,129,.16); color: #6ee7b7; }
+[data-theme="dark"] .badge-brand  { background: rgba(20,184,166,.16); color: #5eead4; }
+[data-theme="dark"] .badge-blue   { background: rgba(96,165,250,.16); color: #93c5fd; }
+[data-theme="dark"] .badge-indigo { background: rgba(129,140,248,.20); color: #c7d2fe; }
+[data-theme="dark"] .badge-amber  { background: rgba(245,158,11,.16); color: #fcd34d; }
+[data-theme="dark"] .badge-rose   { background: rgba(244,63,94,.16); color: #fda4af; }
+[data-theme="dark"] .badge-gray   { background: rgba(148,163,184,.18); color: #cbd5e1; }
+[data-theme="dark"] .badge-solid  { background: #059669; color: #fff; }
+
+/* ----- bills / PDFs are ALWAYS light: black text on white, no theme tint, no accent color,
+   regardless of the dashboard's light/dark setting (re-asserts the light palette on the sheet) ----- */
+.print-sheet {
+  --app-bg: #ffffff; --surface: #ffffff; --surface-2: #f6f7f9;
+  --color-ink-50: #f6f7f9; --color-ink-100: #eceef2; --color-ink-200: #d4d9e2; --color-ink-300: #aeb7c7;
+  --color-ink-400: #6b7280; --color-ink-500: #4b5563; --color-ink-600: #374151; --color-ink-700: #1f2937;
+  --color-ink-800: #111827; --color-ink-900: #000000; --color-ink-950: #000000;
+  background: #ffffff !important; color: #000000;
+}
+
+/* ----- print: show ONLY the .print-sheet (bills / service reports) ----- */
+@media print {
+  body { background: #fff; }
+  .no-print { display: none !important; }
+  body * { visibility: hidden; }
+  .print-sheet, .print-sheet * { visibility: visible; }
+  .print-sheet { position: absolute; left: 0; top: 0; width: 100%; margin: 0 !important; box-shadow: none !important; }
+  @page { size: A4; margin: 14mm; }
+}

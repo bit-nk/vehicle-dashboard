@@ -1,0 +1,64 @@
+name: Deploy to GitHub Pages
+
+# Builds both apps and publishes them to one GitHub Pages site:
+#   public site → https://bit-nk.github.io/vehicle-dashboard/
+#   dashboard   → https://bit-nk.github.io/vehicle-dashboard/dashboard/
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+      - run: npm ci
+
+      - name: Build public site (served at root)
+        run: npm run build -w @vinsight/web -- --base=/vehicle-dashboard/
+        env:
+          VITE_HASH_ROUTER: 'true'
+          VITE_DASHBOARD_URL: /vehicle-dashboard/dashboard/
+
+      - name: Build dashboard (served at /dashboard/)
+        run: npm run build -w @vinsight/dashboard -- --base=/vehicle-dashboard/dashboard/
+        env:
+          VITE_HASH_ROUTER: 'true'
+          VITE_PUBLIC_SITE_URL: /vehicle-dashboard/
+
+      - name: Assemble combined site
+        run: |
+          rm -rf _site && mkdir -p _site/dashboard
+          cp -r apps/web/dist/. _site/
+          cp -r apps/dashboard/dist/. _site/dashboard/
+          cp _site/index.html _site/404.html
+          touch _site/.nojekyll
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

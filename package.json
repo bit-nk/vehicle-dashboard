@@ -1,0 +1,18 @@
+{
+  "name": "vehicle-records",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Vehicle Records - monorepo. apps/web (public site) + packages/shared. Dashboard app to follow.",
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "scripts": {
+    "dev": "npm run dev -w @vinsight/web",
+    "build": "npm run build -w @vinsight/web",
+    "preview": "npm run preview -w @vinsight/web",
+    "dev:dashboard": "npm run dev -w @vinsight/dashboard",
+    "build:dashboard": "npm run build -w @vinsight/dashboard",
+    "build:all": "npm run build -w @vinsight/web && npm run build -w @vinsight/dashboard"
+  }
+}

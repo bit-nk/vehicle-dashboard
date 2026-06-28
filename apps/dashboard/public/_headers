@@ -1,0 +1,12 @@
+# Production HTTP response headers (Netlify / Cloudflare Pages format).
+# Static SPAs can't set most security headers from HTML, so set them at the edge.
+# Mirrors apps/web; dashboard also renders dealership logos (data: URIs) and applies
+# per-dealership accent colors via inline CSS vars (style-src 'unsafe-inline').
+/*
+  Content-Security-Policy: default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; img-src 'self' data: https://upload.wikimedia.org; connect-src 'self'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'; object-src 'none'
+  Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+  X-Content-Type-Options: nosniff
+  X-Frame-Options: DENY
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: geolocation=(), camera=(), microphone=(), payment=()
+  Cross-Origin-Opener-Policy: same-origin
