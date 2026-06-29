@@ -108,6 +108,8 @@ links back to the dashboard.
 
 ## Documentation
 
+- [USER_GUIDE.md](USER_GUIDE.md) — end-user guide: login instructions and how each module
+  (public site + dashboard) works.
 - [SECURITY.md](SECURITY.md) — security posture and what must move server-side (API,
   database, RBAC enforcement, schema, and the production backlog) before this is
   production-safe.

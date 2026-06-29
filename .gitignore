@@ -43,5 +43,6 @@ Thumbs.db
 *.md
 !README.md
 !CHANGELOG.md
+!USER_GUIDE.md
 !MEMORY.md
 !SECURITY.md
