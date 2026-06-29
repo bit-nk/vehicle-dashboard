@@ -2,7 +2,7 @@
 
 All notable changes to this project are documented here.
 
-## [1.0.0] — 2026-06-27
+## [1.0.0] - 2026-06-27
 
 First complete release of the Vehicle Records platform (front-end demo).
 

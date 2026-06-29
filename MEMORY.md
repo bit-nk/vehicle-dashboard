@@ -361,7 +361,7 @@ Foundation slice toward the "Prestige Auto Group" reference redesign (user chose
   recommended dashboard prefs (show revenue chart, live tiles, collapse sidebar, table density, default landing)
   persisted via `getSettings`/`setSettings` (localStorage `vinsight:settings`). Prefs persist; theme is fully wired.
 - **Add New Item** (`pages/AddNewItem.jsx`, route `/add-item`, **Admin role only** via PERMISSIONS + in-page guard):
-  the "Central Item Addition Hub" — 3 forms (Add Parts Inventory -> `addPartToInventory`; Add Servicing Item ->
+  the "Central Item Addition Hub" - 3 forms (Add Parts Inventory -> `addPartToInventory`; Add Servicing Item ->
   appends a subtype to the dealership service catalog via `writePlatformStore`; Add System User -> demo/activity-log)
   + a recent-activity feed. Matches the reference image 5.
 - **Admin pending approvals** on Overview (role Admin): reads `readPlatformStore().changeRequests` for the dealership
